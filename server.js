@@ -1,49 +1,41 @@
-const express = require('express');
-const http = require('http');
-const { Server } = require('socket.io');
+const express = require("express");
+const http = require("http");
+const { Server } = require("socket.io");
 
 const app = express();
 const server = http.createServer(app);
-
 const io = new Server(server, {
-  cors: {
-    origin: "*",
-    methods: ["GET", "POST"]
-  }
+  cors: { origin: "*" }
 });
 
-let users = [];
+let users = {};
 
-io.on('connection', (socket) => {
-  console.log(`User connected: ${socket.id}`);
+io.on("connection", (socket) => {
+  socket.on("join", (username) => {
+    users[socket.id] = username;
+    io.emit("users", Object.values(users));
 
-  // New user joins
-  socket.on('join-channel', (username) => {
-    users.push({ id: socket.id, username });
-    io.emit('user-list', users); // Broadcast user list
-  });
+    socket.broadcast.emit("new-user", socket.id);
 
-  // User leaves the channel
-  socket.on('disconnect', () => {
-    users = users.filter(user => user.id !== socket.id);
-    io.emit('user-list', users); // Broadcast updated user list
-  });
+    socket.on("offer", ({ to, offer }) => {
+      io.to(to).emit("offer", { from: socket.id, offer });
+    });
 
-  // Handling offer, answer, and ice-candidates for WebRTC
-  socket.on('offer', (offer) => {
-    socket.broadcast.emit('offer', offer);
-  });
+    socket.on("answer", ({ to, answer }) => {
+      io.to(to).emit("answer", { from: socket.id, answer });
+    });
 
-  socket.on('answer', (answer) => {
-    socket.broadcast.emit('answer', answer);
-  });
+    socket.on("ice-candidate", ({ to, candidate }) => {
+      io.to(to).emit("ice-candidate", { from: socket.id, candidate });
+    });
 
-  socket.on('ice-candidate', (candidate) => {
-    socket.broadcast.emit('ice-candidate', candidate);
+    socket.on("disconnect", () => {
+      delete users[socket.id];
+      io.emit("users", Object.values(users));
+      socket.broadcast.emit("user-left", socket.id);
+    });
   });
 });
 
 const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+server.listen(PORT, () => console.log("Server running on port " + PORT));
