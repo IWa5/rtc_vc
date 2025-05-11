@@ -1,7 +1,6 @@
 {
-  "name": "rtc_vc",
+  "name": "voice-chat-server",
   "version": "1.0.0",
-  "description": "Voice chat backend using Express and Socket.IO",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -9,8 +8,5 @@
   "dependencies": {
     "express": "^4.18.2",
     "socket.io": "^4.7.2"
-  },
-  "engines": {
-    "node": ">=14"
   }
 }
