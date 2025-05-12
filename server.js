@@ -7,7 +7,7 @@ const server = http.createServer(app);
 const io = new Server(server, {
   cors: { origin: "*" }
 
-  app.get("/ping", (req, res) => {
+app.get("/ping", (req, res) => {
   res.status(200).send("pong");
 });
 
