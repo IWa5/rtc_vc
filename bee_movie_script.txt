@@ -1,6 +1,6 @@
-NARRATOR: 
+NARRATOR  
 
-(Black screen with text; The sound of buzzing bees can be heard) 
+(Black screen with text  The sound of buzzing bees can be heard) 
 According to all known laws 
 
 of aviation, 
@@ -20,7 +20,7 @@ The bee, of course, flies anyway
 because bees don't care 
 
 what humans think is impossible. 
-BARRY BENSON: 
+BARRY BENSON  
 
 (Barry is picking out a shirt) 
 Yellow, black. Yellow, black. 
@@ -29,10 +29,10 @@ Yellow, black. Yellow, black.
 
 Ooh, black and yellow! 
 Let's shake it up a little. 
-JANET BENSON: 
+JANET BENSON  
 
 Barry! Breakfast is ready! 
-BARRY: 
+BARRY  
 
 Coming! 
 
@@ -42,41 +42,41 @@ Hang on a second.
 
 
 Hello? 
-ADAM FLAYMAN: 
+ADAM FLAYMAN  
 
 
 (Through phone) 
 
 - Barry? 
 
-BARRY: 
+BARRY  
 
 - Adam? 
 
-ADAM: 
+ADAM  
 
 - Can you believe this is happening? 
-BARRY: 
+BARRY  
 
 - | can't. I'll pick you up. 
 
 (Barry flies down the stairs) 
 
 
-MARTIN BENSON: 
+MARTIN BENSON  
 
 
 Looking sharp. 
 
-JANET: 
+JANET  
 
 Use the stairs. Your father 
 paid good money for those. 
-BARRY: 
+BARRY  
 
 Sorry. I'm excited. 
 
-MARTIN: 
+MARTIN  
 
 Here's the graduate. 
 
@@ -84,7 +84,7 @@ We're very proud of you, son.
 
 
 A perfect report card, all B's. 
-JANET: 
+JANET  
 
 Very proud. 
 
@@ -92,22 +92,22 @@ Very proud.
 BARRY= 
 
 Ma! | got a thing going here. 
-JANET: 
+JANET  
 
 - You got lint on your fuzz. 
-BARRY: 
+BARRY  
 
 - Ow! That's me! 
 
 
-JANET: 
+JANET  
 
 - Wave to us! We'll be in row 118,000. 
 - Bye! 
 
 (Barry flies out the door) 
 
-JANET: 
+JANET  
 
 Barry, | told you, 
 
@@ -120,7 +120,7 @@ BARRY==
 
 - Hey, Adam. 
 
-ADAM: 
+ADAM  
 
 - Hey, Barry. 
 
@@ -129,27 +129,27 @@ ADAM:
 
 - Is that fuzz gel? 
 
-BARRY: 
+BARRY  
 
 -A little. Special day, graduation. 
 
-ADAM: 
+ADAM  
 
 Never thought I'd make it. 
 
 (Barry pulls away from the house and continues driving) 
-BARRY: 
+BARRY  
 
 Three days grade school, 
 
 
 three days high school... 
 
-ADAM: 
+ADAM  
 
 Those were awkward. 
 
-BARRY: 
+BARRY  
 
 Three days college. I'm glad | took 
 
@@ -159,23 +159,23 @@ ADAM==
 You did come back different. 
 
 (Barry and Adam pass by Artie, who is jogging) 
-ARTIE: 
+ARTIE  
 
 - Hi, Barry! 
 
 
-BARRY: 
+BARRY  
 
 - Artie, growing a mustache? Looks good. 
-ADAM: 
+ADAM  
 
 - Hear about Frankie? 
 
-BARRY: 
+BARRY  
 
 
 - You going to the funeral? 
-BARRY: 
+BARRY  
 - No, I'm not going to his funeral. 
 
 
@@ -187,7 +187,7 @@ Don't waste it on a squirrel.
 
 Such a hothead. 
 
-ADAM: 
+ADAM  
 
 | guess he could have 
 
@@ -201,7 +201,7 @@ highway)
 
 an amusement park into our regular day. 
 
-BARRY: 
+BARRY  
 
 | guess that's why they say we don't need vacations. 
 
@@ -218,7 +218,7 @@ under the circumstances.
 - Well, Adam, today we are men. 
 
 
-ADAM: 
+ADAM  
 
 - We are! 
 
@@ -230,18 +230,18 @@ BARRY=
 
 - Amen! 
 
-BARRY AND ADAM: 
+BARRY AND ADAM  
 
 Hallelujah! 
 
 (Barry and Adam both have a happy spasm) 
-ANNOUNCER: 
+ANNOUNCER  
 
 Students, faculty, distinguished bees, 
 
 
 please welcome Dean Buzzwell. 
-DEAN BUZZWELL: 
+DEAN BUZZWELL  
 
 Welcome, New Hive Oity 
 graduating class of... 
@@ -255,7 +255,7 @@ And begins your career
 
 at Honex Industries! 
 
-ADAM: 
+ADAM  
 
 Will we pick our job today? 
 
@@ -267,19 +267,19 @@ BARRY=
 (Tour buses rise out of the ground and the students are automatically 
 loaded into the buses) 
 
-TOUR GUIDE: 
+TOUR GUIDE  
 
 Heads up! Here we go. 
 
 
-ANNOUNCER: 
+ANNOUNCER  
 
 Keep your hands and antennas 
 inside the tram at all times. 
-BARRY: 
+BARRY  
 
 - Wonder what it'll be like? 
-ADAM: 
+ADAM  
 
 - A little scary. 
 
@@ -292,21 +292,21 @@ a division of Honesco
 
 
 and a part of the Hexagon Group. 
-Barry: 
+Barry  
 
 This is it! 
 
-BARRY AND ADAM: 
+BARRY AND ADAM  
 
 Wow. 
 
-BARRY: 
+BARRY  
 
 Wow. 
 
 (The bus drives down a road an on either side are the Bee's massive 
 complicated Honey-making machines) 
-TOUR GUIDE: 
+TOUR GUIDE  
 
 We know that you, as a bee, 
 
@@ -332,17 +332,17 @@ with its distinctive
 
 golden glow you know as... 
 
-EVERYONE ON BUS: 
+EVERYONE ON BUS  
 
 Honey! 
 
 (The guide has been collecting honey into a bottle and she throws it into 
 the crowd on the bus and it is caught by a girl in the back) 
-ADAM: 
+ADAM  
 
 - That girl was hot. 
 
-BARRY: 
+BARRY  
 
 - She's my cousin! 
 
@@ -350,15 +350,15 @@ ADAM==
 
 - She is? 
 
-BARRY: 
+BARRY  
 
 - Yes, we're all cousins. 
 
-ADAM: 
+ADAM  
 
 
 - Right. You're right. 
-TOUR GUIDE: 
+TOUR GUIDE  
 - At Honex, we constantly strive 
 
 
@@ -379,11 +379,11 @@ ADAM==
 
 
 - What do you think he makes? 
-BARRY: 
+BARRY  
 
 - Not enough. 
 
-TOUR GUIDE: 
+TOUR GUIDE  
 
 Here we have our latest advancement, 
 the Krelman. 
@@ -391,11 +391,11 @@ the Krelman.
 (They pass by a turning wheel with Bees standing on pegs, who are each 
 wearing a finger-shaped hat) 
 
-Barry: 
+Barry  
 
 - Wow, What does that do? 
 
-TOUR GUIDE: 
+TOUR GUIDE  
 
 - Catches that little strand of honey 
 
@@ -404,12 +404,12 @@ that hangs after you pour it.
 
 Saves us millions. 
 
-ADAM: 
+ADAM  
 
 (Intrigued) 
 
 Can anyone work on the Krelman? 
-TOUR GUIDE: 
+TOUR GUIDE  
 
 Of course. Most bee jobs are 
 
@@ -427,17 +427,17 @@ you pick for the rest of your life.
 (Everyone claps except for Barry) 
 
 
-BARRY: 
+BARRY  
 
 The same job the rest of your life? 
 | didn't know that. 
 
-ADAM: 
+ADAM  
 
 
 What's the difference? 
 
-TOUR GUIDE: 
+TOUR GUIDE  
 
 You'll be happy to know that bees, 
 
@@ -446,7 +446,7 @@ as a species, haven't had one day off
 
 in 27 million years. 
 
-BARRY: 
+BARRY  
 
 (Upset) 
 
@@ -458,11 +458,11 @@ We'll sure try.
 (Everyone on the bus laughs except Barry. Barry and Adam are walking back 
 home together) 
 
-ADAM: 
+ADAM  
 
 Wow! That blew my mind! 
 
-BARRY: 
+BARRY  
 
 "What's the difference?" 
 
@@ -472,18 +472,18 @@ How can you say that?
 One job forever? 
 
 That's an insane choice to have to make. 
-ADAM: 
+ADAM  
 
 I'm relieved. Now we only have 
 
 to make one decision in life. 
-BARRY: 
+BARRY  
 
 But, Adam, how could they 
 
 never have told us that? 
 
-ADAM: 
+ADAM  
 
 Why would you question anything? 
 We're bees. 
@@ -493,13 +493,13 @@ We're the most perfectly
 functioning society on Earth. 
 
 
-BARRY: 
+BARRY  
 
 You ever think maybe things 
 
 work a little too well here? 
 
-ADAM: 
+ADAM  
 
 Like what? Give me one example. 
 
@@ -508,19 +508,19 @@ Like what? Give me one example.
 hundreds of cars are speeding by and narrowly missing them in perfect 
 unison) 
 
-BARRY: 
+BARRY  
 
 | don't know. But you know 
 
 what I'm talking about. 
 
-ANNOUNCER: 
+ANNOUNCER  
 
 Please clear the gate. 
 
 Royal Nectar Force on approach. 
 
-BARRY: 
+BARRY  
 
 Wait a second. Check it out. 
 
@@ -528,21 +528,21 @@ Wait a second. Check it out.
 
 
 - Hey, those are Pollen Jocks! 
-ADAM: 
+ADAM  
 - Wow. 
 
 
 I've never seen them this close. 
-BARRY: 
+BARRY  
 
 They know what it's like 
 
 outside the hive. 
 
-ADAM: 
+ADAM  
 
 Yeah, but some don't come back. 
-GIRL BEES: 
+GIRL BEES  
 
 - Hey, Jocks! 
 
@@ -552,7 +552,7 @@ GIRL BEES:
 to trucks, which drive away) 
 
 
-LOU LO DUVA: 
+LOU LO DUVA  
 You guys did great! 
 
 
@@ -565,10 +565,10 @@ You're sky freaks!
 (Punching the Pollen Jocks in joy) 
 | love it! 
 
-ADAM: 
+ADAM  
 
 - | wonder where they were. 
-BARRY: 
+BARRY  
 
 - | don't know. 
 
@@ -591,19 +591,19 @@ Right.
 (Barry and Adam are covered in some pollen that floated off of the Pollen 
 Jocks) 
 
-BARRY: 
+BARRY  
 
 Look at that. That's more pollen 
 
 than you and | will see in a lifetime. 
 
-ADAM: 
+ADAM  
 
 It's just a status symbol. 
 
 Bees make too much of it. 
 
-BARRY: 
+BARRY  
 
 Perhaps. Unless you're wearing it 
 
@@ -617,26 +617,26 @@ ADAM==
 Those ladies? 
 
 Aren't they our cousins too? 
-BARRY: 
+BARRY  
 
 Distant. Distant. 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 Look at these two. 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 - Couple of Hive Harrys. 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 - Let's have fun with them. 
-GIRL BEE #1: 
+GIRL BEE #1  
 
 It must be dangerous 
 
 being a Pollen Jock. 
-BARRY: 
+BARRY  
 
 Yeah. Once a bear pinned me 
 against a mushroom! 
@@ -647,66 +647,66 @@ He had a paw on my throat,
 and with the other, he was slapping me! 
 
 (Slaps Adam with his hand to represent his scenario) 
-GIRL BEE #2: 
+GIRL BEE #2  
 
 - Oh, my! 
 
-BARRY: 
+BARRY  
 
 
 - | never thought I'd knock him out. 
 
-GIRL BEE #1: 
+GIRL BEE #1  
 
 (Looking at Adam) 
 
 What were you doing during this? 
 
-ADAM: 
+ADAM  
 
 Obviously | was trying to alert the authorities. 
-BARRY: 
+BARRY  
 
 | can autograph that. 
 
 
 (The pollen jocks walk up to Barry and Adam, they pretend that Barry and 
 Adam really are pollen jocks.) 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 A little gusty out there today, 
 wasn't it, comrades? 
 
-BARRY: 
+BARRY  
 
 Yeah. Gusty. 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 We're hitting a sunflower patch 
 six miles from here tomorrow. 
-BARRY: 
+BARRY  
 
 - Six miles, huh? 
 
-ADAM: 
+ADAM  
 
 - Barry! 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 A puddle jump for us, 
 
 but maybe you're not up for it. 
-BARRY: 
+BARRY  
 
 - Maybe | am. 
 
-ADAM: 
+ADAM  
 
 - You are not! 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 We're going 0900 at J-Gate. 
 
@@ -715,7 +715,7 @@ What do you think, buzzy-boy?
 
 Are you bee enough? 
 
-BARRY: 
+BARRY  
 
 | might be. It all depends 
 
@@ -724,19 +724,19 @@ on what 0900 means.
 (The scene cuts to Barry looking out on the hive-city from his balcony at 
 night) 
 
-MARTIN: 
+MARTIN  
 
 
 Hey, Honex! 
-BARRY: 
+BARRY  
 
 
 Dad, you surprised me. 
 
-MARTIN: 
+MARTIN  
 
 You decide what you're interested in? 
-BARRY: 
+BARRY  
 
 - Well, there's a lot of choices. 
 
@@ -746,7 +746,7 @@ BARRY:
 Do you ever get bored 
 
 doing the same job every day? 
-MARTIN: 
+MARTIN  
 
 Son, let me tell you about stirring. 
 
@@ -758,7 +758,7 @@ move it around, and you stir it around.
 You get yourself into a rhythm. 
 It's a beautiful thing. 
 
-BARRY: 
+BARRY  
 
 You know, Dad, 
 
@@ -767,7 +767,7 @@ the more | think about it,
 
 maybe the honey field 
 just isn't right for me. 
-MARTIN: 
+MARTIN  
 
 You were thinking of what, 
 making balloon animals? 
@@ -780,38 +780,38 @@ for a guy with a stinger.
 Janet, your son's not sure 
 
 he wants to go into honey! 
-JANET: 
+JANET  
 
 - Barry, you are so funny sometimes. 
-BARRY: 
+BARRY  
 
 - I'm not trying to be funny. 
-MARTIN: 
+MARTIN  
 
 You're not funny! You're going 
 into honey. Our son, the stirrer! 
-JANET: 
+JANET  
 
 - You're gonna be a stirrer? 
-BARRY: 
+BARRY  
 
 - No one's listening to me! 
 
 
-MARTIN: 
+MARTIN  
 
 Wait till you see the sticks | have. 
-BARRY: 
+BARRY  
 
 | could say anything right now. 
 
 I'm gonna get an ant tattoo! 
 
 (Barry's parents don't listen to him and continue to ramble on) 
-MARTIN: 
+MARTIN  
 
 Let's open some honey and celebrate! 
-BARRY: 
+BARRY  
 
 Maybe I'll pierce my thorax. 
 
@@ -822,39 +822,39 @@ Shack up with a grasshopper. Get
 
 a gold tooth and call everybody "dawg"! 
 
-JANET: 
+JANET  
 
 I'm so proud. 
 
 (The scene cuts to Barry and Adam waiting in line to get a job) 
-ADAM: 
+ADAM  
 
 - We're starting work today! 
 
 
-BARRY: 
+BARRY  
 
 - Today's the day. 
 
-ADAM: 
+ADAM  
 
 Come on! All the good jobs 
 
 will be gone. 
 
-BARRY: 
+BARRY  
 
 Yeah, right. 
 
-JOB LISTER: 
+JOB LISTER  
 
 Pollen counting, stunt bee, pouring, 
 stirrer, front desk, hair removal... 
-BEE IN FRONT OF LINE: 
+BEE IN FRONT OF LINE  
 
 - Is it still available? 
 
-JOB LISTER: 
+JOB LISTER  
 
 - Hang on. Two left! 
 
@@ -862,30 +862,30 @@ JOB LISTER:
 One of them's yours! Congratulations! 
 Step to the side. 
 
-ADAM: 
+ADAM  
 
 - What'd you get? 
 
-BEE IN FRONT OF LINE: 
+BEE IN FRONT OF LINE  
 
 - Picking crud out. Stellar! 
 
 (He walks away) 
 
-ADAM: 
+ADAM  
 
 Wow! 
 
 
-JOB LISTER: 
+JOB LISTER  
 
 Couple of newbies? 
 
-ADAM: 
+ADAM  
 
 Yes, sir! Our first day! We are ready! 
 
-JOB LISTER: 
+JOB LISTER  
 
 Make your choice. 
 
@@ -894,29 +894,29 @@ changing panels that contain available or unavailable jobs. It looks very
 confusing) 
 
 
-ADAM: 
+ADAM  
 
 - You want to go first? 
 
-BARRY: 
+BARRY  
 
 - No, you go. 
 
-ADAM: 
+ADAM  
 
 Oh, my. What's available? 
 
-JOB LISTER: 
+JOB LISTER  
 
 Restroom attendant's open, 
 
 not for the reason you think. 
 
-ADAM: 
+ADAM  
 
 - Any chance of getting the Krelman? 
 
-JOB LISTER: 
+JOB LISTER  
 
 - Sure, you're on. 
 
@@ -929,14 +929,14 @@ I'm sorry, the Krelman just closed out.
 
 Wax monkey's always open. 
 
-ADAM: 
+ADAM  
 
 The Krelman opened up again. 
 
 
 What happened? 
 
-JOB LISTER: 
+JOB LISTER  
 
 A bee died. Makes an opening. See? 
 He's dead. Another dead one. 
@@ -949,7 +949,7 @@ Dead from the neck up.
 Dead from the neck down. That's life! 
 
 
-ADAM: 
+ADAM  
 Oh, this is so hard! 
 
 
@@ -969,40 +969,40 @@ do you think | should... Barry?
 
 Barry! 
 
-POLLEN JOCK: 
+POLLEN JOCK  
 
 All right, we've got the sunflower patch 
 in quadrant nine... 
 
-ADAM: 
+ADAM  
 
 (Through phone) 
 
 What happened to you? 
 Where are you? 
 
-BARRY: 
+BARRY  
 
 - I'm going out. 
 
-ADAM: 
+ADAM  
 
 - Out? Out where? 
 
-BARRY: 
+BARRY  
 
 - Out there. 
 
-ADAM: 
+ADAM  
 
 - Oh, no! 
 
-BARRY: 
+BARRY  
 
 | have to, before | go 
 
 to work for the rest of my life. 
-ADAM: 
+ADAM  
 
 
 You're gonna die! You're crazy! 
@@ -1010,7 +1010,7 @@ You're gonna die! You're crazy!
 
 Hello? 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 Another call coming in. 
 
@@ -1020,7 +1020,7 @@ there's a Korean deli on 83rd
 
 
 that gets their roses today. 
-BARRY: 
+BARRY  
 Hey, guys. 
 
 
@@ -1028,27 +1028,27 @@ POLLEN JOCK #1 ==
 
 - Look at that. 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 - Isn't that the kid we saw yesterday? 
-LOU LO DUVA: 
+LOU LO DUVA  
 
 Hold it, son, flight deck's restricted. 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 It's OK, Lou. We're gonna take him up. 
 (Puts hand on Barry's shoulder) 
 
-LOU LO DUVA: 
+LOU LO DUVA  
 
 (To Barry) Really? Feeling lucky, are you? 
-BEE WITH CLIPBOARD: 
+BEE WITH CLIPBOARD  
 
 (To Barry) Sign here, here. Just initial that. 
 
 
 - Thank you. 
-LOU LO DUVA: 
+LOU LO DUVA  
 - OK. 
 
 
@@ -1074,11 +1074,11 @@ of root beer being poured on us.
 Murphy's in a home because of it, 
 babbling like a cicada! 
 
-BARRY: 
+BARRY  
 
 - That's awful. 
 
-LOU LO DUVA: 
+LOU LO DUVA  
 
 (Still talking through megaphone) 
 - And a reminder for you rookies, 
@@ -1089,29 +1089,29 @@ absolutely no talking to humans!
 
 
 All right, launch positions! 
-POLLEN JOCKS: 
+POLLEN JOCKS  
 (The Pollen Jocks run into formation) 
 
 
 Buzz, buzz, buzz, buzz! Buzz, buzz, 
 buzz, buzz! Buzz, buzz, buzz, buzz! 
-LOU LU DUVA: 
+LOU LU DUVA  
 
 Black and yellow! 
 
-POLLEN JOCKS: 
+POLLEN JOCKS  
 
 
 Hello! 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 (To Barry)You ready for this, hot shot? 
-BARRY: 
+BARRY  
 
 Yeah. Yeah, bring it on. 
 
-POLLEN JOCK's: 
+POLLEN JOCK's  
 
 Wind, check. 
 
@@ -1124,10 +1124,10 @@ Wind, check.
 
 - Stinger, check. 
 
-BARRY: 
+BARRY  
 
 Scared out of my shorts, check. 
-LOU LO DUVA: 
+LOU LO DUVA  
 
 OK, ladies, 
 
@@ -1142,7 +1142,7 @@ you striped stem-suckers!
 All of you, drain those flowers! 
 
 (The pollen jocks fly out of the hive) 
-BARRY: 
+BARRY  
 
 Wow! I'm out! 
 
@@ -1168,7 +1168,7 @@ Flowers!
 (A pollen jock puts on some high tech goggles that shows flowers similar to 
 heat sink goggles.) 
 
-POLLEN JOCK: 
+POLLEN JOCK  
 
 This is Blue Leader. 
 
@@ -1179,7 +1179,7 @@ Bring it around 30 degrees and hold.
 
 
 Roses! 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 30 degrees, roger. Bringing it around. 
 
 
@@ -1189,7 +1189,7 @@ It's got a bit of a kick.
 
 (The pollen jock fires a high-tech gun at the flower, shooting tubes that 
 suck up the nectar from the flower and collects it into a pouch on the gun) 
-BARRY: 
+BARRY  
 
 That is one nectar collector! 
 
@@ -1197,11 +1197,11 @@ POLLEN JOCK #1==
 
 - Ever see pollination up close? 
 
-BARRY: 
+BARRY  
 
 - No, sir. 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 
 (Barry and the Pollen jock fly over the field, the pollen jock sprinkles 
@@ -1215,24 +1215,24 @@ over here. Maybe a dash over there,
 a pinch on that one. 
 
 See that? It's a little bit of magic. 
-BARRY: 
+BARRY  
 
 That's amazing. Why do we do that? 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 That's pollen power. More pollen, more 
 flowers, more nectar, more honey for us. 
 
 
-BARRY: 
+BARRY  
 
 Cool. 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 I'm picking up a lot of bright yellow. 
 could be daisies. Don't we need those? 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 Copy that visual. 
 
@@ -1241,28 +1241,28 @@ Wait. One of these flowers
 
 seems to be on the move. 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 Say again? You're reporting 
 
 a moving flower? 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 Affirmative. 
 
 (The Pollen jocks land near the "flowers" which, to the audience are 
 obviously just tennis balls) 
 
-KEN: 
+KEN  
 
 (In the distance) That was on the line! 
 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 This is the coolest. What is it? 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 | don't know, but I'm loving this color. 
 
@@ -1271,7 +1271,7 @@ It smells good.
 
 Not like a flower, but | like it. 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 Yeah, fuzzy. 
 
@@ -1282,22 +1282,22 @@ POLLEN JOCK #3==
 Chemical-y. 
 
 (The pollen jock finally gets his hand free from the tennis ball) 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 Careful, guys. It's a little grabby. 
 
 (The pollen jocks turn around and see Barry lying his entire body on top of 
 one of the tennis balls) 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 My sweet lord of bees! 
 
-POLLEN JOCK #3: 
+POLLEN JOCK #3  
 
 Candy-brain, get off there! 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 (Pointing upwards) 
 
@@ -1307,15 +1307,15 @@ Problem!
 (A human hand reaches down and grabs the tennis ball that Barry is stuck 
 to) 
 
-BARRY: 
+BARRY  
 
 - Guys! 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 - This could be bad. 
 
-POLLEN JOCK #3: 
+POLLEN JOCK #3  
 
 Affirmative. 
 
@@ -1335,35 +1335,35 @@ Mama's little boy.
 (Barry is being hit back and forth by two humans playing tennis. He is 
 still stuck to the ball) 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 You are way out of position, rookie! 
-KEN: 
+KEN  
 
 Coming in at you like a MISSILE! 
 (Barry flies past the pollen jocks, still stuck to the ball) 
-BARRY: 
+BARRY  
 
 (In slow motion) 
 
 Help me! 
 
-POLLEN JOCK #2: 
+POLLEN JOCK #2  
 
 | don't think these are flowers. 
-POLLEN JOCK #3: 
+POLLEN JOCK #3  
 
 - Should we tell him? 
 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 - | think he knows. 
 
-BARRY: 
+BARRY  
 
 What is this?! 
 
-KEN: 
+KEN  
 
 Match point! 
 
@@ -1375,7 +1375,7 @@ because you're about to EAT IT!
 (A pollen jock coughs which confused Ken and he hits the ball the wrong way 
 with Barry stuck to it and it goes flying into the city) 
 
-BARRY: 
+BARRY  
 
 
 Yowser! 
@@ -1383,39 +1383,39 @@ Yowser!
 (Barry bounces around town and gets stuck in the engine of a car. He flies 
 into the air conditioner and sees a bug that was frozen in there) 
 
-BARRY: 
+BARRY  
 
 Ew, gross. 
 
 (The man driving the car turns on the air conditioner which blows Barry 
 into the car) 
 
-GIRL IN CAR: 
+GIRL IN CAR  
 
 There's a bee in the car! 
 
 
 - Do something! 
 
-DAD DRIVING CAR: 
+DAD DRIVING CAR  
 
 - I'm driving! 
 
-BABY GIRL: 
+BABY GIRL  
 
 (Waving at Barry) 
 
 - Hi, bee. 
 
 (Barry smiles and waves at the baby girl) 
-GUY IN BACK OF CAR: 
+GUY IN BACK OF CAR  
 
 - He's back here! 
 
 
 He's going to sting me! 
 
-GIRL IN CAR: 
+GIRL IN CAR  
 
 Nobody move. If you don't move, 
 
@@ -1431,11 +1431,11 @@ He blinked!
 (The grandma whips out some bee-spray and sprays everywhere in the car, 
 climbing into the front seat, still trying to spray Barry) 
 
-GIRL IN CAR: 
+GIRL IN CAR  
 
 Spray him, Granny! 
 
-DAD DRIVING THE CAR: 
+DAD DRIVING THE CAR  
 
 What are you doing?! 
 
@@ -1444,7 +1444,7 @@ What are you doing?!
 
 the ground, safe.) 
 
-BARRY: 
+BARRY  
 
 Wow... the tension level 
 
@@ -1472,7 +1472,7 @@ Mayday! Mayday! Bee going down!
 (WW2 plane sound effects are played as he plummets, and he crash-lands on a 
 plant inside an apartment near the window) 
 
-VANESSA BLOOME: 
+VANESSA BLOOME  
 
 Ken, could you close 
 
@@ -1493,7 +1493,7 @@ Folds out.
 
 (Ken closes the window, trapping Barry inside) 
 
-BARRY: 
+BARRY  
 
 Oh, no. More humans. | don't need this. 
 
@@ -1516,17 +1516,17 @@ Drapes!
 (Barry taps the glass. He doesn't understand what it is) 
 That is diabolical. 
 
-KEN: 
+KEN  
 
 It's fantastic. It's got all my special 
 
 skills, even my top-ten favorite movies. 
 
-ANDY: 
+ANDY  
 
 What's number one? Star Wars? 
 
-KEN: 
+KEN  
 
 Nah, | don't go for that... 
 
@@ -1535,16 +1535,16 @@ Nah, | don't go for that...
 
 ...kind of stuff. 
 
-BARRY: 
+BARRY  
 
 No wonder we shouldn't talk to them. 
 They're out of their minds. 
 
-KEN: 
+KEN  
 
 When | leave a job interview, they're 
 flabbergasted, can't believe what | say. 
-BARRY: 
+BARRY  
 
 (Looking at the light on the ceiling) 
 There's the sun. Maybe that's a way out. 
@@ -1558,7 +1558,7 @@ having a big 75 on it.
 (Barry hits the lightbulb and falls into the dip on the table that the 
 humans are sitting at) 
 
-KEN: 
+KEN  
 
 
 | predicted global warming. 
@@ -1582,7 +1582,7 @@ Stand back. These are winter boots.
 (Ken has winter boots on his hands and he is about to smash the bee but 
 Vanessa saves him last second) 
 
-VANESSA: 
+VANESSA  
 
 Wait! 
 
@@ -1590,26 +1590,26 @@ Wait!
 Don't kill him! 
 
 (Vanessa puts Barry in a glass to protect him) 
-KEN: 
+KEN  
 
 You know I'm allergic to them! 
 
 This thing could kill me! 
 
-VANESSA: 
+VANESSA  
 
 Why does his life have 
 
 less value than yours? 
 
 
-KEN: 
+KEN  
 
 Why does his life have any less value 
 
 than mine? Is that your statement? 
 
-VANESSA: 
+VANESSA  
 
 I'm just saying all life has value. You 
 
@@ -1617,36 +1617,36 @@ don't know what he's capable of feeling.
 
 (Vanessa picks up Ken's brochure and puts it under the glass so she can 
 carry Barry back to the window. Barry looks at Vanessa in amazement) 
-KEN: 
+KEN  
 
 
 My brochure! 
 
-VANESSA: 
+VANESSA  
 
 There you go, little guy. 
 
 (Vanessa opens the window and lets Barry out but Barry stays back and is 
 still shocked that a human saved his life) 
-KEN: 
+KEN  
 
 I'm not scared of him. 
 
 It's an allergic thing. 
 
-VANESSA: 
+VANESSA  
 
 Put that on your resume brochure. 
 
-KEN: 
+KEN  
 
 My whole face could puff up. 
 
-ANDY: 
+ANDY  
 
 Make it one of your special skills. 
 
-KEN: 
+KEN  
 
 Knocking someone out 
 
@@ -1658,7 +1658,7 @@ Right. Bye, Vanessa. Thanks.
 
 
 - Vanessa, next week? Yogurt night? 
-VANESSA: 
+VANESSA  
 - Sure, Ken. You know, whatever. 
 
 
@@ -1666,17 +1666,17 @@ VANESSA:
 
 
 - You could put carob chips on there. 
-VANESSA: 
+VANESSA  
 
 - Bye. 
 
 (Closes door but Ken opens it again) 
-KEN: 
+KEN  
 
 - Supposed to be less calories. 
 
 
-VANESSA: 
+VANESSA  
 
 
 - Bye. 
@@ -1747,37 +1747,37 @@ counter)
 
 
 I'm sorry. 
-VANESSA: 
+VANESSA  
 
 - You're talking. 
-BARRY: 
+BARRY  
 
 - Yes, | know. 
-VANESSA: 
+VANESSA  
 (Pointing at Barry) 
 You're talking! 
-BARRY: 
+BARRY  
 
 I'm so sorry. 
-VANESSA: 
+VANESSA  
 
 No, it's OK. It's fine. 
 | know I'm dreaming. 
 
 
 But | don't recall going to bed. 
-BARRY: 
+BARRY  
 
 Well, I'm sure this 
 
 is very disconcerting. 
-VANESSA: 
+VANESSA  
 
 This is a bit of a surprise to me. 
 | mean, you're a bee! 
 
 
-BARRY: 
+BARRY  
 
 lam. And I'm not supposed 
 
@@ -1796,50 +1796,50 @@ It's just how | was raised.
 
 
 That was a little weird. 
-VANESSA: 
+VANESSA  
 
 - I'm talking with a bee. 
-BARRY: 
+BARRY  
 
 - Yeah. 
 
-VANESSA: 
+VANESSA  
 
 I'm talking to a bee. 
 
 And the bee is talking to me! 
 
 
-BARRY: 
+BARRY  
 
 | just want to say I'm grateful. 
 I'll leave now. 
 
 (Barry turns to leave) 
-VANESSA: 
+VANESSA  
 
 - Wait! How did you learn to do that? 
-BARRY: 
+BARRY  
 
 (Flying back) 
 
 - What? 
 
-VANESSA: 
+VANESSA  
 
 The talking...thing. 
 
-BARRY: 
+BARRY  
 
 
 Same way you did, | guess. 
 
 "Mama, Dada, honey." You pick it up. 
-VANESSA: 
+VANESSA  
 
 - That's very funny. 
 
-BARRY: 
+BARRY  
 
 - Yeah. 
 
@@ -1849,79 +1849,79 @@ we'd cry with what we have to deal with.
 
 
 Anyway... 
-VANESSA: 
+VANESSA  
 Can l... 
 
 
 ...get you something? 
 
-BARRY: 
+BARRY  
 
 - Like what? 
 
-VANESSA: 
+VANESSA  
 
 | don't know. | mean... 
 
 | don't know. Coffee? 
 
-BARRY: 
+BARRY  
 
 | don't want to put you out. 
-VANESSA: 
+VANESSA  
 
 It's no trouble. It takes two minutes. 
 
 
 - It's just coffee. 
 
-BARRY: 
+BARRY  
 
 - | hate to impose. 
 
 (Vanessa starts making coffee) 
-VANESSA: 
+VANESSA  
 
 - Don't be ridiculous! 
 
 
-BARRY: 
+BARRY  
 
 - Actually, | would love a cup. 
-VANESSA: 
+VANESSA  
 
 Hey, you want rum cake? 
-BARRY: 
+BARRY  
 
 - | shouldn't. 
 
-VANESSA: 
+VANESSA  
 
 - Have some. 
 
-BARRY: 
+BARRY  
 
 - No, | can't. 
 
-VANESSA: 
+VANESSA  
 
 - Come on! 
 
-BARRY: 
+BARRY  
 
 I'm trying to lose a couple micrograms. 
-VANESSA: 
+VANESSA  
 
 - Where? 
 
-BARRY: 
+BARRY  
 
 - These stripes don't help. 
-VANESSA: 
+VANESSA  
 
 You look great! 
 
-BARRY: 
+BARRY  
 
 | don't know if you know 
 anything about fashion. 
@@ -1929,7 +1929,7 @@ anything about fashion.
 
 Are you all right? 
 
-VANESSA: 
+VANESSA  
 
 (Pouring coffee on the floor and missing the cup completely) 
 
@@ -1958,15 +1958,15 @@ And he says, "Watermelon?
 Why would | marry a watermelon?" 
 
 (Barry laughs but Vanessa looks confused) 
-VANESSA: 
+VANESSA  
 
 Is that a bee joke? 
 
-BARRY: 
+BARRY  
 
 That's the kind of stuff we do. 
 
-VANESSA: 
+VANESSA  
 
 Yeah, different. 
 
@@ -1976,36 +1976,36 @@ So, what are you gonna do, Barry?
 (Barry stands on top of a sugar cube floating in his coffee and paddles it 
 around with a straw like it's a gondola) 
 
-BARRY: 
+BARRY  
 
 About work? | don't know. 
 
 
 | want to do my part for the hive, 
 but | can't do it the way they want. 
-VANESSA: 
+VANESSA  
 
 | know how you feel. 
 
 
-BARRY: 
+BARRY  
 
 - You do? 
-VANESSA: 
+VANESSA  
 - Sure. 
 
 
 My parents wanted me to be a lawyer or 
 a doctor, but | wanted to be a florist. 
-BARRY: 
+BARRY  
 
 - Really? 
 
-VANESSA: 
+VANESSA  
 
 - My only interest is flowers. 
 
-BARRY: 
+BARRY  
 
 Our new queen was just elected 
 
@@ -2017,34 +2017,34 @@ Anyway, if you look...
 
 
 There's my hive right there. See it? 
-VANESSA: 
+VANESSA  
 
 You're in Sheep Meadow! 
 
-BARRY: 
+BARRY  
 
 Yes! I'm right off the Turtle Pond! 
 
 
-VANESSA: 
+VANESSA  
 
 No way! | know that area. 
 
 | lost a toe ring there once. 
 
-BARRY: 
+BARRY  
 
 - Why do girls put rings on their toes? 
-VANESSA: 
+VANESSA  
 
 - Why not? 
 
-BARRY: 
+BARRY  
 
 
 - It's like putting a hat on your knee. 
 
-VANESSA: 
+VANESSA  
 
 - Maybe I'll try that. 
 
@@ -2052,17 +2052,17 @@ VANESSA:
 perspective it looks like Vanessa is talking to a cup of coffee on the 
 table) 
 
-CUSTODIAN: 
+CUSTODIAN  
 
 - You all right, ma'am? 
 
-VANESSA: 
+VANESSA  
 
 - Oh, yeah. Fine. 
 
 
 Just having two cups of coffee! 
-BARRY: 
+BARRY  
 
 Anyway, this has been great. 
 Thanks for the coffee. 
@@ -2071,7 +2071,7 @@ VANESSA==
 
 Yeah, it's no trouble. 
 
-BARRY: 
+BARRY  
 
 Sorry | couldn't finish it. If 1 did, 
 
@@ -2081,19 +2081,19 @@ I'd be up the rest of my life.
 
 
 Can | take a piece of this with me? 
-VANESSA: 
+VANESSA  
 
 Sure! Here, have a crumb. 
 (Vanessa hands Barry a crumb but it is still pretty big for Barry) 
-BARRY: 
+BARRY  
 
 - Thanks! 
 
-VANESSA: 
+VANESSA  
 
 - Yeah. 
 
-BARRY: 
+BARRY  
 
 All right. Well, then... 
 
@@ -2102,21 +2102,21 @@ All right. Well, then...
 
 Or not. 
 
-VANESSA: 
+VANESSA  
 
 OK, Barry... 
 
-BARRY: 
+BARRY  
 
 And thank you 
 
 so much again... for before. 
 
-VANESSA: 
+VANESSA  
 
 Oh, that? That was nothing. 
 
-BARRY: 
+BARRY  
 
 Well, not nothing, but... Anyway... 
 
@@ -2130,11 +2130,11 @@ the ladder)
 (Fast forward in time and we see two Bee Scientists testing out a parachute 
 in a Honex wind tunnel) 
 
-BEE SCIENTIST #1: 
+BEE SCIENTIST #1  
 
 This can't possibly work. 
 
-BEE SCIENTIST #2: 
+BEE SCIENTIST #2  
 
 He's all set to go. 
 
@@ -2147,11 +2147,11 @@ OK, Dave, pull the chute.
 on his face. The camera pans over and we see Barry and Adam walking 
 together) 
 
-ADAM: 
+ADAM  
 
 - Sounds amazing. 
 
-BARRY: 
+BARRY  
 
 - It was amazing! 
 
@@ -2160,7 +2160,7 @@ It was the scariest,
 happiest moment of my life. 
 
 
-ADAM: 
+ADAM  
 Humans! | can't believe 
 you were with humans! 
 
@@ -2169,7 +2169,7 @@ Giant, scary humans!
 
 What were they like? 
 
-BARRY: 
+BARRY  
 
 Huge and crazy. They talk crazy. 
 
@@ -2178,21 +2178,21 @@ They eat crazy giant things.
 
 They drive crazy. 
 
-ADAM: 
+ADAM  
 
 - Do they try and kill you, like on TV? 
-BARRY: 
+BARRY  
 
 - Some of them. But some of them don't. 
-ADAM: 
+ADAM  
 
 - How'd you get back? 
 
-BARRY: 
+BARRY  
 
 - Poodle. 
 
-ADAM: 
+ADAM  
 
 You did it, and I'm glad. You saw 
 whatever you wanted to see. 
@@ -2200,33 +2200,33 @@ whatever you wanted to see.
 
 You had your "experience." Now you 
 can pick out your job and be normal. 
-BARRY: 
+BARRY  
 
 - Well... 
 
-ADAM: 
+ADAM  
 
 - Well? 
 
-BARRY: 
+BARRY  
 
 Well, | met someone. 
 
 
-ADAM: 
+ADAM  
 You did? Was she Bee-ish? 
 
 
 - A wasp?! Your parents will kill you! 
-BARRY: 
+BARRY  
 
 - No, no, no, not a wasp. 
 
-ADAM: 
+ADAM  
 
 - Spider? 
 
-BARRY: 
+BARRY  
 
 - I'm not attracted to spiders. 
 
@@ -2236,42 +2236,42 @@ with the eight legs and all.
 
 
 | can't get by that face. 
-ADAM: 
+ADAM  
 
 So who is she? 
 
-BARRY: 
+BARRY  
 
 She's... human. 
 
-ADAM: 
+ADAM  
 
 No, no. That's a bee law. 
 
 
 You wouldn't break a bee law. 
-BARRY: 
+BARRY  
 
 - Her name's Vanessa. 
 
 (Adam puts his head in his hands) 
-ADAM: 
+ADAM  
 
 - Oh, boy. 
 
 BARRY== 
 
 She's so nice. And she's a florist! 
-ADAM: 
+ADAM  
 
 Oh, no! You're dating a human florist! 
 
 
-BARRY: 
+BARRY  
 
 We're not dating. 
 
-ADAM: 
+ADAM  
 
 You're flying outside the hive, talking 
 to humans that attack our homes 
@@ -2279,36 +2279,36 @@ to humans that attack our homes
 
 with power washers and M-80s! 
 That's one-eighth a stick of dynamite! 
-BARRY: 
+BARRY  
 
 She saved my life! 
 
 And she understands me. 
 
-ADAM: 
+ADAM  
 
 This is over! 
 
-BARRY: 
+BARRY  
 
 Eat this. 
 
 (Barry gives Adam a piece of the crumb that he got from Vanessa. Adam eats 
 it) 
 
-ADAM: 
+ADAM  
 
 (Adam's tone changes) 
 
 This is not over! What was that? 
-BARRY: 
+BARRY  
 
 - They call it a crumb. 
 
-ADAM: 
+ADAM  
 
 - It was so stingin' stripey! 
-BARRY: 
+BARRY  
 
 And that's not what they eat. 
 That's what falls off what they eat! 
@@ -2316,37 +2316,37 @@ That's what falls off what they eat!
 
 - You know what a Cinnabon is? 
 
-ADAM: 
+ADAM  
 
 - No. 
 
 (Adam opens a door behind him and he pulls Barry in) 
 
 
-BARRY: 
+BARRY  
 
 It's bread and cinnamon and frosting. 
-ADAM: 
+ADAM  
 
 Be quiet! 
 
-BARRY: 
+BARRY  
 
 They heat it up... 
 
-ADAM: 
+ADAM  
 
 Sit down! 
 
 (Adam forces Barry to sit down) 
-BARRY: 
+BARRY  
 
 (Still rambling about Cinnabons) 
 
 ... really hot! 
 
 (Adam grabs Barry by the shoulders) 
-ADAM: 
+ADAM  
 
 - Listen to me! 
 
@@ -2358,7 +2358,7 @@ BARRY==
 Yes, but who can deny 
 
 the heart that is yearning? 
-ADAM: 
+ADAM  
 
 There's no yearning. 
 
@@ -2368,44 +2368,44 @@ Stop yearning. Listen to me!
 You have got to start thinking bee, 
 my friend. Thinking bee! 
 
-BARRY: 
+BARRY  
 
 - Thinking bee. 
 
-WORKER BEE: 
+WORKER BEE  
 
 - Thinking bee. 
 
-WORKER BEES AND ADAM: 
+WORKER BEES AND ADAM  
 Thinking bee! Thinking bee! 
 
 
 Thinking bee! Thinking bee! 
 
-(Flash forward in time; Barry is laying on a raft in a pool full of honey. 
+(Flash forward in time  Barry is laying on a raft in a pool full of honey. 
 He is wearing sunglasses) 
 
-JANET: 
+JANET  
 
 There he is. He's in the pool. 
 
-MARTIN: 
+MARTIN  
 
 You know what your problem is, Barry? 
 
 (Barry pulls down his sunglasses and he looks annoyed) 
 
-BARRY: 
+BARRY  
 
 (Sarcastic) 
 
 
 | gotta start thinking bee? 
 
-JANET: 
+JANET  
 
 How much longer will this go on? 
-MARTIN: 
+MARTIN  
 
 It's been three days! 
 
@@ -2413,18 +2413,18 @@ Why aren't you working?
 
 (Puts sunglasses back on) 
 
-BARRY: 
+BARRY  
 
 I've got a lot of big life decisions 
 
 to think about. 
 
-MARTIN: 
+MARTIN  
 
 What life? You have no life! 
 
 You have no job. You're barely a bee! 
-JANET: 
+JANET  
 
 Would it kill you 
 
@@ -2438,7 +2438,7 @@ Your father's talking to you.
 
 
 Martin, would you talk to him? 
-MARTIN: 
+MARTIN  
 
 
 Barry, I'm talking to you! 
@@ -2450,26 +2450,26 @@ having a picnic with Vanessa)
 mosquito lands on Vanessa and she slaps it, killing it. They both gasp but 
 then burst out laughing) 
 
-VANESSA: 
+VANESSA  
 
 You coming? 
 
 (The camera pans over and Vanessa is climbing into a small yellow airplane) 
-BARRY: 
+BARRY  
 
 Got everything? 
 
-VANESSA: 
+VANESSA  
 
 All set! 
 
-BARRY: 
+BARRY  
 
 Go ahead. I'll catch up. 
 
 (Vanessa lifts off and flies ahead) 
 
-VANESSA: 
+VANESSA  
 
 Don't be too long. 
 
@@ -2477,7 +2477,7 @@ Don't be too long.
 He rolls from side to side, and Vanessa copies him with the airplane) 
 
 
-VANESSA: 
+VANESSA  
 
 Watch this! 
 
@@ -2486,7 +2486,7 @@ pink smoke from the plane, but on the last loop-the-loop she suddenly
 crashes into a mountain and the plane explodes. The destroyed plane falls 
 into some rocks and explodes a second time) 
 
-BARRY: 
+BARRY  
 
 Vanessal 
 
@@ -2494,40 +2494,40 @@ Vanessal
 discovering that he was just day dreaming. He slowly sinks back into the 
 honey pool) 
 
-MARTIN: 
+MARTIN  
 
 - We're still here. 
 
 
-JANET: 
+JANET  
 - | told you not to yell at him. 
 
 
 He doesn't respond to yelling! 
 
 
-MARTIN: 
+MARTIN  
 
 - Then why yell at me? 
-JANET: 
+JANET  
 
 - Because you don't listen! 
-MARTIN: 
+MARTIN  
 
 I'm not listening to this. 
-BARRY: 
+BARRY  
 
 Sorry, I've gotta go. 
-MARTIN: 
+MARTIN  
 
 - Where are you going? 
-BARRY: 
+BARRY  
 
 - I'm meeting a friend. 
-JANET: 
+JANET  
 
 A girl? Is this why you can't decide? 
-BARRY: 
+BARRY  
 
 Bye. 
 
@@ -2542,13 +2542,13 @@ JANET==
 (Fast forward in time and Barry is sitting on Vanessa's shoulder and she is 
 closing up her shop) 
 
-BARRY: 
+BARRY  
 
 They have a huge parade 
 
 of flowers every year in Pasadena? 
 
-VANESSA: 
+VANESSA  
 
 
 To be in the Tournament of Roses, 
@@ -2558,64 +2558,64 @@ that's every florist's dream!
 Up on a float, surrounded 
 
 by flowers, crowds cheering. 
-BARRY: 
+BARRY  
 
 A tournament. Do the roses 
 compete in athletic events? 
-VANESSA: 
+VANESSA  
 
 No. All right, I've got one. 
 
 How come you don't fly everywhere? 
-BARRY: 
+BARRY  
 
 It's exhausting. Why don't you 
 
 run everywhere? It's faster. 
-VANESSA: 
+VANESSA  
 
 Yeah, OK, | see, | see. 
 
 All right, your turn. 
 
-BARRY: 
+BARRY  
 
 TiVo. You can just freeze live TV? 
 That's insane! 
 
-VANESSA: 
+VANESSA  
 
 You don't have that? 
 
-BARRY: 
+BARRY  
 
 We have Hivo, but it's a disease. 
 It's a horrible, horrible disease. 
-VANESSA: 
+VANESSA  
 
 Oh, my. 
 
 (A human walks by and Barry narrowly avoids him) 
-PASSERBY: 
+PASSERBY  
 
 Dumb bees! 
 
-VANESSA: 
+VANESSA  
 
 You must want to sting all those jerks. 
-BARRY: 
+BARRY  
 
 We try not to sting. 
 
 
 It's usually fatal for us. 
 
-VANESSA: 
+VANESSA  
 
 So you have to watch your temper 
 (They walk into a store) 
 
-BARRY: 
+BARRY  
 
 Very carefully. 
 
@@ -2623,7 +2623,7 @@ You kick a wall, take a walk,
 
 
 write an angry letter and throw it out. 
-Work through it like any emotion: 
+Work through it like any emotion  
 
 
 Anger, jealousy, lust. 
@@ -2631,7 +2631,7 @@ Anger, jealousy, lust.
 (Suddenly an employee(Hector) hits Barry off of Vanessa's shoulder. Hector 
 thinks he's saving Vanessa) 
 
-VANESSA: 
+VANESSA  
 
 (To Barry) 
 
@@ -2639,23 +2639,23 @@ Oh, my goodness! Are you OK?
 
 (Barry is getting up off the floor) 
 
-BARRY: 
+BARRY  
 
 Yeah. 
 
-VANESSA: 
+VANESSA  
 
 (To Hector) 
 
 - What is wrong with you?! 
 
-HECTOR: 
+HECTOR  
 
 (Confused) 
 
 - It's a bug. 
 
-VANESSA: 
+VANESSA  
 
 He's not bothering anybody. 
 
@@ -2663,38 +2663,38 @@ Get out of here, you creep!
 
 (Vanessa hits Hector across the face with the magazine he had and then hits 
 him in the head. Hector backs away covering his head) 
-Barry: 
+Barry  
 
 What was that? A Pic 'N' Save circular? 
 
 (Vanessa sets Barry back on her shoulder) 
 
 
-VANESSA: 
+VANESSA  
 
 Yeah, it was. How did you know? 
 
-BARRY: 
+BARRY  
 
 It felt like about 10 pages. 
 
 Seventy-five is pretty much our limit. 
 
-VANESSA: 
+VANESSA  
 
 You've really got that 
 
 down to a science. 
 
-BARRY: 
+BARRY  
 
 - Oh, we have to. | lost a cousin to Italian Vogue. 
-VANESSA: 
+VANESSA  
 
 - I'll bet. 
 
 (Barry looks to his right and notices there is honey for sale in the aisle) 
-BARRY: 
+BARRY  
 
 What in the name 
 
@@ -2712,38 +2712,38 @@ Ray Liotta Private Select?
 (Barry puts his hands up and slowly turns around, a look of disgust on his 
 face) 
 
-VANESSA: 
+VANESSA  
 
 - Is he that actor? 
 
-BARRY: 
+BARRY  
 
 - | never heard of him. 
 
 
 - Why is this here? 
-VANESSA: 
+VANESSA  
 
 - For people. We eat it. 
-BARRY: 
+BARRY  
 
 
 You don't have 
 
 enough food of your own?! 
 (Hector looks back and notices that Vanessa is talking to Barry) 
-VANESSA: 
+VANESSA  
 
 - Well, yes. 
 
-BARRY: 
+BARRY  
 
 - How do you get it? 
-VANESSA: 
+VANESSA  
 
 - Bees make it. 
 
-BARRY: 
+BARRY  
 
 - | Know who makes it! 
 
@@ -2753,19 +2753,19 @@ And it's hard to make it!
 
 There's heating, cooling, stirring. 
 You need a whole Krelman thing! 
-VANESSA: 
+VANESSA  
 
 - It's organic. 
 
-BARRY: 
+BARRY  
 
 - It's our-ganic! 
 
-VANESSA: 
+VANESSA  
 
 It's just honey, Barry. 
 
-BARRY: 
+BARRY  
 
 Just what?! 
 
@@ -2786,7 +2786,7 @@ I'm getting to the bottom
 
 of all of this! 
 
-(Flash forward in time; Barry paints his face with black strikes like a 
+(Flash forward in time  Barry paints his face with black strikes like a 
 soldier and sneaks into the storage section of the store) 
 
 (Two men, including Hector, are loading boxes into some trucks) 
@@ -2798,7 +2798,7 @@ Hey, Hector.
 
 - You almost done? 
 
-HECTOR: 
+HECTOR  
 
 - Almost. 
 
@@ -2815,16 +2815,16 @@ Well, | guess I'll go home now
 and just leave this nice honey out, 
 with no one around. 
 
-BARRY: 
+BARRY  
 
 You're busted, box boy! 
-HECTOR: 
+HECTOR  
 
 | knew | heard something! 
 
 So you can talk! 
 
-BARRY: 
+BARRY  
 
 I can talk. 
 
@@ -2835,7 +2835,7 @@ Where you getting the sweet stuff?
 
 
 Who's your supplier? 
-HECTOR: 
+HECTOR  
 
 | don't understand. 
 
@@ -2852,27 +2852,27 @@ Barry. Barry is using his stinger like a sword)
 
 You're too late! It's ours now! 
 
-BARRY: 
+BARRY  
 
 You, sir, have crossed 
 
 the wrong sword! 
 
-HECTOR: 
+HECTOR  
 
 You, sir, will be lunch 
 
 for my iguana, Ignacio! 
 
 (Barry hits the thumbtack out of Hectors hand and Hector surrenders) 
-Barry: 
+Barry  
 
 Where is the honey coming from? 
 
 
 Tell me where! 
 
-HECTOR: 
+HECTOR  
 
 (Pointing to leaving truck) 
 
@@ -2881,7 +2881,7 @@ Honey Farms! It comes from Honey Farms!
 (Barry chases after the truck but it is getting away. He flies onto a 
 bicyclists’ backpack and he catches up to the truck) 
 
-CAR DRIVER: 
+CAR DRIVER  
 
 (To bicyclist) 
 
@@ -2889,7 +2889,7 @@ Crazy person!
 
 (Barry flies off and lands on the windshield of the Honey farms truck. 
 Barry looks around and sees dead bugs splattered everywhere) 
-BARRY: 
+BARRY  
 
 What horrible thing has happened here? 
 
@@ -2903,48 +2903,48 @@ they're on the road to nowhere!
 (Barry hears a sudden whisper) 
 
 (Barry looks up and sees Mooseblood, a mosquito playing dead) 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Just keep still. 
 
-BARRY: 
+BARRY  
 
 What? You're not dead? 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Do | look dead? They will wipe anything 
 
 that moves. Where you headed? 
 
 
-BARRY: 
+BARRY  
 
 To Honey Farms. 
 
 | am onto something huge here. 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 I'm going to Alaska. Moose blood, 
 
 crazy stuff. Blows your head off! 
 
-ANOTHER BUG PLAYING DEAD: 
+ANOTHER BUG PLAYING DEAD  
 
 I'm going to Tacoma. 
 
 (Barry looks at another bug) 
 
-BARRY: 
+BARRY  
 
 - And you? 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 - He really is dead. 
 
-BARRY: 
+BARRY  
 
 All right. 
 
@@ -2959,20 +2959,20 @@ Uh-oh!
 
 
 them off) 
-BARRY: 
+BARRY  
 
 - What is that?! 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 - Oh, no! 
 
 
 - A wiper! Triple blade! 
 
-BARRY: 
+BARRY  
 
 - Triple blade? 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Jump on! It's your only chance, bee! 
 
@@ -2991,23 +2991,23 @@ How much do you people need to see?!
 Open your eyes! 
 
 Stick your head out the window! 
-RADIO IN TRUCK: 
+RADIO IN TRUCK  
 
 From NPR News in Washington, 
 
 
 I'm Carl Kasell. 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 But don't kill no more bugs! 
 
 (Mooseblood and Barry are washed off by the wipr fluid) 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 - Bee! 
 
-BARRY: 
+BARRY  
 
 - Moose blood guy!! 
 
@@ -3017,19 +3017,19 @@ BARRY:
 
 
 There is a pause and then Barry and the water bug both start screaming) 
-TRUCK DRIVER: 
+TRUCK DRIVER  
 
 - You hear something? 
 
-GUY IN TRUCK: 
+GUY IN TRUCK  
 
 - Like what? 
 
-TRUCK DRIVER: 
+TRUCK DRIVER  
 
 Like tiny screaming. 
 
-GUY IN TRUCK: 
+GUY IN TRUCK  
 
 Turn off the radio. 
 
@@ -3038,28 +3038,28 @@ The water bug flies off and Barry is forced to let go and he is blown away.
 He luckily lands inside a horn on top of the truck where he finds 
 Mooseblood, who was blown into the same place) 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Whassup, bee boy? 
 
-BARRY: 
+BARRY  
 
 Hey, Blood. 
 
 (Fast forward in time and we see that Barry is deep in conversation with 
 Mooseblood. They have been sitting in this truck for a while) 
 
-BARRY: 
+BARRY  
 
 ... Just a row of honey jars, 
 
 as far as the eye could see. 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Wow! 
 
-BARRY: 
+BARRY  
 
 | assume wherever this truck goes 
 
@@ -3067,35 +3067,35 @@ is where they're getting it.
 
 
 | mean, that honey's ours. 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 - Bees hang tight. 
-BARRY: 
+BARRY  
 
 
 - We're all jammed in. 
 
 
 It's a close community. 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Not us, man. We on our own. 
 Every mosquito on his own. 
-BARRY: 
+BARRY  
 
 - What if you get in trouble? 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 - You a mosquito, you in trouble. 
 
 
 Nobody likes us. They just smack. 
 See a mosquito, smack, smack! 
-BARRY: 
+BARRY  
 
 At least you're out in the world. 
 You must meet girls. 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Mosquito girls try to trade up, 
 
@@ -3116,33 +3116,33 @@ are other mosquito's hanging out)
 
 
 - Hey, guys! 
-OTHER MOSQUITO: 
+OTHER MOSQUITO  
 - Mooseblood! 
 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 | knew I'd catch y'all down here. 
 
 Did you bring your crazy straw? 
 (The truck goes out of view and Barry notices that the truck he's on is 
 pulling into a camp of some sort) 
-TRUCK DRIVER: 
+TRUCK DRIVER  
 
 We throw it in jars, slap a label on it, 
 and it's pretty much pure profit. 
 (Barry flies out) 
 
-BARRY: 
+BARRY  
 
 What is this place? 
 
 
-BEEKEEPER 1#: 
+BEEKEEPER 1#  
 
 A bee's got a brain 
 the size of a pinhead. 
-BEEKEEPER #2: 
+BEEKEEPER #2  
 They are pinheads! 
 
 
@@ -3150,17 +3150,17 @@ Pinhead.
 
 
 - Check out the new smoker. 
-BEEKEEPER #1: 
+BEEKEEPER #1  
 - Oh, sweet. That's the one you want. 
 
 
 The Thomas 3000! 
 
-BARRY: 
+BARRY  
 
 Smoker? 
 
-BEEKEEPER #1: 
+BEEKEEPER #1  
 
 Ninety puffs a minute, semi-automatic. 
 Twice the nicotine, all the tar. 
@@ -3170,13 +3170,13 @@ A couple breaths of this
 knocks them right out. 
 
 
-BEEKEEPER #2: 
+BEEKEEPER #2  
 
 They make the honey, 
 
 and we make the money. 
 
-BARRY: 
+BARRY  
 
 "They make the honey, 
 
@@ -3193,17 +3193,17 @@ What's going on? Are you OK?
 (Barry flies into one of the apartment and helps a Bee couple get off the 
 ground. They are coughing and its hard for them to stand) 
 
-BEE IN APARTMENT: 
+BEE IN APARTMENT  
 
 Yeah. It doesn't last too long. 
 
-BARRY: 
+BARRY  
 
 Do you know you're 
 
 in a fake hive with fake walls? 
 
-BEE IN APPARTMENT: 
+BEE IN APPARTMENT  
 
 Our queen was moved here. 
 
@@ -3213,7 +3213,7 @@ We had no choice.
 
 
 the "queen" who is obviously a man in women's clothes) 
-BARRY: 
+BARRY  
 
 This is your queen? 
 
@@ -3246,79 +3246,79 @@ on a massive scale!
 This is worse than anything bears 
 have done! | intend to do something. 
 (Flash forward in time and Barry is showing these pictures to his parents) 
-JANET: 
+JANET  
 
 Oh, Barry, stop. 
 
-MARTIN: 
+MARTIN  
 
 Who told you humans are taking 
 
 our honey? That's a rumor. 
 
-BARRY: 
+BARRY  
 
 Do these look like rumors? 
 
 (Holds up the pictures) 
 
-UNCLE CARL: 
+UNCLE CARL  
 
 That's a conspiracy theory. 
 
 These are obviously doctored photos. 
-JANET: 
+JANET  
 
 How did you get mixed up in this? 
-ADAM: 
+ADAM  
 
 He's been talking to humans. 
-JANET: 
+JANET  
 
 - What? 
 
-MARTIN: 
+MARTIN  
 
 - Talking to humans?! 
 
-ADAM: 
+ADAM  
 
 
 He has a human girlfriend. 
 And they make out! 
-JANET: 
+JANET  
 
 Make out? Barry! 
 
 
-BARRY: 
+BARRY  
 
 We do not. 
 
-ADAM: 
+ADAM  
 
 - You wish you could. 
 
-MARTIN: 
+MARTIN  
 
 - Whose side are you on? 
 
-BARRY: 
+BARRY  
 
 The bees! 
 
-UNCLE CARL: 
+UNCLE CARL  
 
 (He has been sitting in the back of the room this entire time) 
 | dated a cricket once in San Antonio. 
 Those crazy legs kept me up all night. 
-JANET: 
+JANET  
 
 Barry, this is what you want 
 
 to do with your life? 
 
-BARRY: 
+BARRY  
 
 | want to do it for all our lives. 
 
@@ -3333,11 +3333,11 @@ your hands were still stirring.
 
 You couldn't stop. 
 
-JANET: 
+JANET  
 
 | remember that. 
 
-BARRY: 
+BARRY  
 
 What right do they have to our honey? 
 
@@ -3346,43 +3346,43 @@ We live on two cups a year. They put it
 in lip balm for no reason whatsoever! 
 
 
-ADAM: 
+ADAM  
 
 Even if it's true, what can one bee do? 
-BARRY: 
+BARRY  
 
 Sting them where it really hurts. 
-MARTIN: 
+MARTIN  
 
 In the face! The eye! 
 
 
 - That would hurt. 
 
-BARRY: 
+BARRY  
 
 - No. 
 
-MARTIN: 
+MARTIN  
 
 Up the nose? That's a killer. 
 
-BARRY: 
+BARRY  
 
 There's only one place you can sting 
 the humans, one place where it matters. 
 (Flash forward a bit in time and we are watching the Bee News) 
-BEE NEWS NARRATOR: 
+BEE NEWS NARRATOR  
 
 Hive at Five, the hive's only 
 
 full-hour action news source. 
 
-BEE PROTESTOR: 
+BEE PROTESTOR  
 
 No more bee beards! 
 
-BEE NEWS NARRATOR: 
+BEE NEWS NARRATOR  
 
 With Bob Bumble at the anchor desk. 
 
@@ -3393,14 +3393,14 @@ Sports with Buzz Larvi.
 
 And Jeanette Chung. 
 
-BOB BUMBLE: 
+BOB BUMBLE  
 
 - Good evening. I'm Bob Bumble. 
-JEANETTE CHUNG: 
+JEANETTE CHUNG  
 
 
 - And I'm Jeanette Chung. 
-BOB BUMBLE: 
+BOB BUMBLE  
 A tri-county bee, Barry Benson, 
 
 
@@ -3412,7 +3412,7 @@ packaging it and profiting
 
 from it illegally! 
 
-JEANETTE CHUNG: 
+JEANETTE CHUNG  
 
 Tomorrow night on Bee Larry King, 
 
@@ -3427,14 +3427,14 @@ out this week on Hexagon.
 
 
 King and Barry) 
-BEE LARRY KING: 
+BEE LARRY KING  
 Tonight we're talking to Barry Benson. 
 
 
 Did you ever think, "I'm a kid 
 
 from the hive. | can't do this"? 
-BARRY: 
+BARRY  
 
 Bees have never been afraid 
 to change the world. 
@@ -3444,7 +3444,7 @@ What about Bee Columbus?
 
 Bee Gandhi? Bejesus? 
 
-BEE LARRY KING: 
+BEE LARRY KING  
 
 Where I'm from, we'd never sue humans. 
 
@@ -3452,11 +3452,11 @@ Where I'm from, we'd never sue humans.
 We were thinking 
 
 of stickball or candy stores. 
-BARRY: 
+BARRY  
 
 How old are you? 
 
-BEE LARRY KING: 
+BEE LARRY KING  
 
 The bee community 
 
@@ -3467,35 +3467,35 @@ which will be the trial
 
 of the bee century. 
 
-BARRY: 
+BARRY  
 
 You know, they have a Larry King 
 
 in the human world too. 
 
-BEE LARRY KING: 
+BEE LARRY KING  
 
 It's a common name. Next week... 
-BARRY: 
+BARRY  
 
 He looks like you and has a show 
 
 and suspenders and colored dots... 
-BEE LARRY KING: 
+BEE LARRY KING  
 
 Next week... 
 
-BARRY: 
+BARRY  
 
 Glasses, quotes on the bottom from the 
 guest even though you just heard 'em. 
-BEE LARRY KING: 
+BEE LARRY KING  
 
 Bear Week next week! 
 
 They're scary, hairy and here, live. 
 (Bee Larry King gets annoyed and flies away offscreen) 
-BARRY: 
+BARRY  
 
 
 Always leans forward, pointy shoulders, 
@@ -3506,13 +3506,13 @@ squinty eyes, very Jewish.
 They are arguing) 
 
 
-KEN: 
+KEN  
 
 In tennis, you attack 
 
 at the point of weakness! 
 
-VANESSA: 
+VANESSA  
 
 It was my grandmother, Ken. She's 81. 
 KEN== 
@@ -3520,7 +3520,7 @@ KEN==
 Honey, her backhand's a joke! 
 
 I'm not gonna take advantage of that? 
-BARRY: 
+BARRY  
 
 (To Ken) 
 
@@ -3528,74 +3528,74 @@ Quiet, please.
 
 Actual work going on here. 
 
-KEN: 
+KEN  
 
 (Pointing at Barry) 
 
 - Is that that same bee? 
 
-VANESSA: 
+VANESSA  
 
 - Yes, it is! 
 
 
 I'm helping him sue the human race. 
-BARRY: 
+BARRY  
 
 - Hello. 
 
-KEN: 
+KEN  
 
 - Hello, bee. 
 
-VANESSA: 
+VANESSA  
 
 This is Ken. 
 
-BARRY: 
+BARRY  
 
 (Recalling the "Winter Boots" incident earlier) 
 Yeah, | remember you. Timberland, size 
 ten and a half. Vibram sole, | believe. 
-KEN: 
+KEN  
 
 (To Vanessa) 
 
 Why does he talk again? 
 
-VANESSA: 
+VANESSA  
 
 
 Listen, you better go 
 
 ‘cause we're really busy working. 
-KEN: 
+KEN  
 
 But it's our yogurt night! 
-VANESSA: 
+VANESSA  
 
 
 (Holding door open for Ken) 
 Bye-bye. 
 
-KEN: 
+KEN  
 
 (Yelling) 
 
 Why is yogurt night so difficult?! 
 (Ken leaves and Vanessa walks over to Barry. His workplace is a mess) 
-VANESSA: 
+VANESSA  
 
 You poor thing. 
 
 You two have been at this for hours! 
-BARRY: 
+BARRY  
 
 Yes, and Adam here 
 
 has been a huge help. 
 
-ADAM: 
+ADAM  
 
 - Frosting... 
 
@@ -3609,7 +3609,7 @@ to use the competition.
 
 
 So why are you helping me? 
-VANESSA: 
+VANESSA  
 Bees have good qualities. 
 
 
@@ -3618,26 +3618,26 @@ And it takes my mind off the shop.
 
 Instead of flowers, people 
 are giving balloon bouquets now. 
-BARRY: 
+BARRY  
 
 
 Those are great, if you're three. 
-VANESSA: 
+VANESSA  
 
 And artificial flowers. 
 
-BARRY: 
+BARRY  
 
 - Oh, those just get me psychotic! 
-VANESSA: 
+VANESSA  
 
 - Yeah, me too. 
 
 
-BARRY: 
+BARRY  
 
 Bent stingers, pointless pollination. 
-ADAM: 
+ADAM  
 
 Bees must hate those fake things! 
 
@@ -3650,17 +3650,17 @@ Maybe this could make up
 
 for it a little bit. 
 
-VANESSA: 
+VANESSA  
 
 - This lawsuit's a pretty big deal. 
-BARRY: 
+BARRY  
 
 - | guess. 
 
-ADAM: 
+ADAM  
 
 You sure you want to go through with it? 
-BARRY: 
+BARRY  
 
 Am | sure? When I'm done with 
 the humans, they won't be able 
@@ -3672,7 +3672,7 @@ without paying a royalty!
 
 
 a crowd outside a courthouse) 
-NEWS REPORTER: 
+NEWS REPORTER  
 
 It's an incredible scene 
 
@@ -3688,11 +3688,11 @@ we will hear for ourselves
 if a honeybee can actually speak. 
 
 (We are no longer watching through a news camera) 
-ADAM: 
+ADAM  
 
 What have we gotten into here, Barry? 
 
-BARRY: 
+BARRY  
 
 It's pretty big, isn't it? 
 
@@ -3703,13 +3703,13 @@ ADAM==
 
 don't work during the day. 
 
-BARRY: 
+BARRY  
 
 You think billion-dollar multinational 
 
 food companies have good lawyers? 
 
-SECURITY GUARD: 
+SECURITY GUARD  
 
 Everybody needs to stay 
 
@@ -3719,27 +3719,27 @@ behind the barricade.
 owner gets out and walks past Barry) 
 
 
-ADAM: 
+ADAM  
 
 - What's the matter? 
 
-BARRY: 
+BARRY  
 
 - | don't know, | just got a chill. 
 
 (Fast forward in time and everyone is in the court) 
-MONTGOMERY: 
+MONTGOMERY  
 
 Well, if it isn't the bee team. 
 
 
 (To Honey Industry lawyers) 
 You boys work on this? 
-MAN: 
+MAN  
 
 All rise! The Honorable 
 Judge Bumbleton presiding. 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 All right. Case number 4475, 
 
@@ -3755,11 +3755,11 @@ Mr. Montgomery, you're representing
 
 the five food companies collectively? 
 
-MONTGOMERY: 
+MONTGOMERY  
 
 A privilege. 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 Mr. Benson... you're representing 
 
@@ -3767,19 +3767,19 @@ all the bees of the world?
 
 (Everyone looks closely, they are waiting to see if a Bee can really talk) 
 (Barry makes several buzzing sounds to sound like a Bee) 
-BARRY: 
+BARRY  
 
 I'm kidding. Yes, Your Honor, 
 
 we're ready to proceed. 
 
-JUDGE BUMBLBETON: 
+JUDGE BUMBLBETON  
 
 Mr. Montgomery, 
 
 your opening statement, please. 
 
-MONTGOMERY: 
+MONTGOMERY  
 
 Ladies and gentlemen of the jury, 
 
@@ -3828,11 +3828,11 @@ Cloning! For all we know,
 
 
 he could be on steroids! 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 Mr. Benson? 
 
 
-BARRY: 
+BARRY  
 Ladies and gentlemen, 
 there's no trickery here. 
 
@@ -3873,28 +3873,28 @@ JANET==
 
 all the time. So nice! 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 Call your first witness. 
-BARRY: 
+BARRY  
 
 So, Mr. Klauss Vanderhayden 
 
 
 of Honey Farms, big company you have. 
-KLAUSS VANDERHAYDEN: 
+KLAUSS VANDERHAYDEN  
 | suppose so. 
 
-BARRY: 
+BARRY  
 
 | see you also own 
 Honeyburton and Honron! 
-KLAUSS: 
+KLAUSS  
 
 Yes, they provide beekeepers 
 for our farms. 
 
-BARRY: 
+BARRY  
 
 Beekeeper. | find that 
 
@@ -3903,20 +3903,20 @@ to be a very disturbing term.
 
 | don't imagine you employ 
 any bee-free-ers, do you? 
-KLAUSS: 
+KLAUSS  
 
 (Quietly) 
 
 - No. 
 
-BARRY: 
+BARRY  
 
 - | couldn't hear you. 
-KLAUSS: 
+KLAUSS  
 
 - No. 
 
-BARRY: 
+BARRY  
 
 
 - No. 
@@ -3928,14 +3928,14 @@ You keep bees. Not only that,
 
 it seems you thought a bear would be 
 an appropriate image for a jar of honey. 
-KLAUSS: 
+KLAUSS  
 
 They're very lovable creatures. 
 
 
 Yogi Bear, Fozzie Bear, Build-A-Bear. 
 
-BARRY: 
+BARRY  
 
 You mean like this? 
 
@@ -3957,12 +3957,12 @@ Biting into your couch!
 
 Spitting out your throw pillows! 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 OK, that's enough. Take him away. 
 
 (The bear stops roaring and thrashing and walks out) 
-BARRY: 
+BARRY  
 
 So, Mr. Sting, thank you for being here. 
 
@@ -3971,20 +3971,20 @@ Your name intrigues me.
 
 - Where have | heard it before? 
 
-MR. STING: 
+MR. STING  
 
 - | was with a band called The Police. 
-BARRY: 
+BARRY  
 
 But you've never been 
 
 a police officer, have you? 
 
-STING: 
+STING  
 
 No, | haven't. 
 
-BARRY: 
+BARRY  
 
 
 No, you haven't. And so here 
@@ -3999,11 +3999,11 @@ for nothing more than
 
 a prance-about stage name. 
 
-STING: 
+STING  
 
 Oh, please. 
 
-BARRY: 
+BARRY  
 
 Have you ever been stung, Mr. Sting? 
 
@@ -4013,10 +4013,10 @@ a little stung, Sting.
 
 
 Or should | say... Mr. Gordon M. Sumner! 
-MONTGOMERY: 
+MONTGOMERY  
 
 That's not his real name?! You idiots! 
-BARRY: 
+BARRY  
 
 Mr. Liotta, first, 
 
@@ -4026,11 +4026,11 @@ belated congratulations on
 your Emmy win for a guest spot 
 on ER in 2005. 
 
-RAY LIOTTA: 
+RAY LIOTTA  
 
 Thank you. Thank you. 
 
-BARRY: 
+BARRY  
 
 | see from your resume 
 
@@ -4042,10 +4042,10 @@ with a churning inner turmoil
 
 that's ready to blow. 
 
-RAY LIOTTA: 
+RAY LIOTTA  
 
 | enjoy what | do. Is that a crime? 
-BARRY: 
+BARRY  
 
 Not yet it isn't. But is this 
 
@@ -4060,90 +4060,90 @@ have to rehearse
 
 
 your part and learn your lines, sir? 
-RAY LIOTTA: 
+RAY LIOTTA  
 
 Watch it, Benson! 
 
 | could blow right now! 
 
-BARRY: 
+BARRY  
 
 This isn't a goodfella. 
 
 This is a badfella! 
 
 (Ray Liotta looses it and tries to grab Barry) 
-RAY LIOTTA: 
+RAY LIOTTA  
 
 Why doesn't someone just step on 
 this creep, and we can all go home?! 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 - Order in this court! 
 
-RAY LIOTTA: 
+RAY LIOTTA  
 
 - You're all thinking it! 
 
 (Judge Bumbleton starts banging her gavel) 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 Order! Order, | say! 
 
-RAY LIOTTA: 
+RAY LIOTTA  
 
 - Say it! 
 
-MAN: 
+MAN  
 
 
 - Mr. Liotta, please sit down! 
 
 (We see a montage of magazines which feature the court case) 
 (Flash forward in time and Barry is back home with Vanessa) 
-BARRY: 
+BARRY  
 
 | think it was awfully nice 
 
 of that bear to pitch in like that. 
 
-VANESSA: 
+VANESSA  
 
 | think the jury's on our side. 
 
-BARRY: 
+BARRY  
 
 Are we doing everything right,you know, legally? 
 
-VANESSA: 
+VANESSA  
 
 I'm a florist. 
 
-BARRY: 
+BARRY  
 
 Right. Well, here's to a great team. 
 
-VANESSA: 
+VANESSA  
 
 To a great team! 
 
 (Ken walks in from work. He sees Barry and he looks upset when he sees 
 Barry clinking his glass with Vanessa) 
 
-KEN: 
+KEN  
 
 Well, hello. 
 
-VANESSA: 
+VANESSA  
 
 - Oh, Ken! 
 
 
-BARRY: 
+BARRY  
 
 - Hello! 
 
-VANESSA: 
+VANESSA  
 
 | didn't think you were coming. 
 
@@ -4155,29 +4155,29 @@ No, | was just late.
 (Ken holds up his phone and flips it open. The phone has no charge) 
 ...the battery... 
 
-VANESSA: 
+VANESSA  
 
 
 | didn't want all this to go to waste, 
 
 so | called Barry. Luckily, he was free. 
-KEN: 
+KEN  
 
 Oh, that was lucky. 
 
 (Ken sits down at the table across from Barry and Vanessa leaves the room) 
-VANESSA: 
+VANESSA  
 
 There's a little left. 
 
 | could heat it up. 
 
-KEN: 
+KEN  
 
 (Not taking his eyes off Barry) 
 
 Yeah, heat it up, sure, whatever. 
-BARRY: 
+BARRY  
 
 So | hear you're quite a tennis player. 
 
@@ -4186,7 +4186,7 @@ I'm not much for the game myself.
 
 The ball's a little grabby. 
 
-KEN: 
+KEN  
 
 That's where | usually sit. 
 
@@ -4196,7 +4196,7 @@ Right...
 
 there. 
 
-VANESSA: 
+VANESSA  
 
 (Calling from other room) 
 
@@ -4205,29 +4205,29 @@ Ken, Barry was looking at your resume,
 
 and he agreed with me that eating with 
 chopsticks isn't really a special skill. 
-KEN: 
+KEN  
 
 (To Barry) 
 
 You think | don't see what you're doing? 
-BARRY: 
+BARRY  
 
 | know how hard it is to find 
 
 the right job. We have that in common. 
 
 
-KEN: 
+KEN  
 
 Do we? 
 
-BARRY: 
+BARRY  
 
 Bees have 100 percent employment, 
 
 but we do jobs like taking the crud out. 
 
-KEN: 
+KEN  
 
 (Menacingly) 
 
@@ -4238,7 +4238,7 @@ That's just what
 (Ken reaches for a fork on the table but knocks if on the floor. He goes to 
 pick it up) 
 
-VANESSA: 
+VANESSA  
 
 Ken, | let Barry borrow your razor 
 
@@ -4247,11 +4247,11 @@ for his fuzz. | hope that was all right.
 (Ken quickly rises back up after hearing this but hits his head on the 
 table and yells) 
 
-BARRY: 
+BARRY  
 
 I'm going to drain the old stinger. 
 
-KEN: 
+KEN  
 
 Yeah, you do that. 
 
@@ -4261,7 +4261,7 @@ anger)
 
 (Barry looks at the magazines featuring his victories in court) 
 
-BARRY: 
+BARRY  
 
 Look at that. 
 
@@ -4272,7 +4272,7 @@ madder. He yells again)
 
 (Barry is washing his hands in the sink but then Ken walks in) 
 
-KEN: 
+KEN  
 
 You know, you know I've just about had it 
 
@@ -4282,33 +4282,33 @@ with your little mind games.
 
 (Ken is menacingly rolling up a magazine) 
 
-BARRY: 
+BARRY  
 
 
 (Backing away) 
 
 - What's that? 
 
-KEN: 
+KEN  
 
 - Italian Vogue. 
 
-BARRY: 
+BARRY  
 
 Mamma mia, that's a lot of pages. 
 
 
-KEN: 
+KEN  
 
 It's a lot of ads. 
 
-BARRY: 
+BARRY  
 
 Remember what Van said, why is 
 
 your life more valuable than mine? 
 
-KEN: 
+KEN  
 
 That's funny, | just can't seem to recall that! 
 
@@ -4323,7 +4323,7 @@ keeps missing)
 
 | think something stinks in here! 
 
-BARRY: 
+BARRY  
 
 (Enjoying the spray) 
 
@@ -4331,11 +4331,11 @@ BARRY:
 
 (Ken holds a lighter in front of the spray bottle) 
 
-KEN: 
+KEN  
 
 How do you like the smell of flames?! 
 
-BARRY: 
+BARRY  
 
 Not as much. 
 
@@ -4343,7 +4343,7 @@ Not as much.
 bathroom. He torches the whole room but looses his footing and falls into 
 the bathtub. After getting hit in the head by falling objects 3 times he 
 picks up the shower head, revealing a Water bug hiding under it) 
-WATER BUG: 
+WATER BUG  
 
 Water bug! Not taking sides! 
 
@@ -4351,7 +4351,7 @@ Water bug! Not taking sides!
 (Barry gets up out of a pile of bathroom supplies and he is wearing a 
 chapstick hat) 
 
-BARRY: 
+BARRY  
 
 Ken, I'm wearing a Chapstick hat! 
 
@@ -4359,7 +4359,7 @@ This is pathetic!
 
 (Ken switches the shower head to lethal) 
 
-KEN: 
+KEN  
 
 I've got issues! 
 
@@ -4368,11 +4368,11 @@ I've got issues!
 
 Well, well, well, a royal flush! 
 
-BARRY: 
+BARRY  
 
 - You're bluffing. 
 
-KEN: 
+KEN  
 
 - Am |? 
 
@@ -4382,7 +4382,7 @@ KEN:
 (Barry grabs a chapstick from the toilet seat and uses it to surf in the 
 flushing toilet) 
 
-BARRY: 
+BARRY  
 
 Surf's up, dude! 
 
@@ -4392,11 +4392,11 @@ the toilet water)
 
 EW,Poo water! 
 
-BARRY: 
+BARRY  
 
 That bowl is gnarly. 
 
-KEN: 
+KEN  
 
 (Aiming a toilet cleaner at Barry) 
 
@@ -4404,7 +4404,7 @@ Except for those dirty yellow rings!
 
 (Barry cowers and covers his head and Vanessa runs in and takes the toilet 
 cleaner from Ken just before he hits Barry) 
-VANESSA: 
+VANESSA  
 
 Kenneth! What are you doing?! 
 
@@ -4417,7 +4417,7 @@ You know, | don't even like honey!
 
 | don't eat it! 
 
-VANESSA: 
+VANESSA  
 
 We need to talk! 
 
@@ -4430,23 +4430,23 @@ He's just a little bee!
 And he happens to be 
 
 the nicest bee I've met in a long time! 
-KEN: 
+KEN  
 
 Long time? What are you talking about?! 
 Are there other bugs in your life? 
-VANESSA: 
+VANESSA  
 
 No, but there are other things bugging 
 me in life. And you're one of them! 
 
-KEN: 
+KEN  
 
 Fine! Talking bees, no yogurt night... 
 
 
 My nerves are fried from riding 
 on this emotional roller coaster! 
-VANESSA: 
+VANESSA  
 
 Goodbye, Ken. 
 
@@ -4462,21 +4462,21 @@ And for your information,
 sweeteners MADE BY MAN! 
 
 (Ken leaves again and Vanessa leans in towards Barry) 
-VANESSA: 
+VANESSA  
 
 I'm sorry about all that. 
 
 (Ken walks back in again) 
 
 
-KEN: 
+KEN  
 
 | know it's got 
 
 an aftertaste! | LIKE IT! 
 
 (Ken leaves for the last time) 
-VANESSA: 
+VANESSA  
 
 | always felt there was some kind 
 of barrier between Ken and me. 
@@ -4488,7 +4488,7 @@ Oh, well.
 
 Are you OK for the trial? 
 
-BARRY: 
+BARRY  
 
 | believe Mr. Montgomery 
 
@@ -4500,7 +4500,7 @@ MONTGOMERY--
 We would like to call 
 
 Mr. Barry Benson Bee to the stand. 
-ADAM: 
+ADAM  
 
 Good idea! You can really see why he's 
 considered one of the best lawyers... 
@@ -4508,7 +4508,7 @@ considered one of the best lawyers...
 
 ... Yeah. 
 
-LAWYER: 
+LAWYER  
 
 Layton, you've 
 
@@ -4517,7 +4517,7 @@ gotta weave some magic
 with this jury, 
 
 or it's gonna be all over. 
-MONTGOMERY: 
+MONTGOMERY  
 
 Don't worry. The only thing | have 
 
@@ -4530,10 +4530,10 @@ of what they don't like about bees.
 
 
 - You got the tweezers? 
-LAWYER: 
+LAWYER  
 
 - Are you allergic? 
-MONTGOMERY: 
+MONTGOMERY  
 
 Only to losing, son. Only to losing. 
 
@@ -4547,22 +4547,22 @@ What exactly is your relationship
 
 
 to that woman? 
-BARRY: 
+BARRY  
 
 We're friends. 
-MONTGOMERY: 
+MONTGOMERY  
 - Good friends? 
-BARRY: 
+BARRY  
 
 - Yes. 
-MONTGOMERY: 
+MONTGOMERY  
 How good? Do you live together? 
-ADAM: 
+ADAM  
 
 Wait a minute... 
 
 
-MONTGOMERY: 
+MONTGOMERY  
 Are you her little... 
 
 
@@ -4578,74 +4578,74 @@ doesn't your queen give birth
 
 to all the bee children? 
 
-BARRY: 
+BARRY  
 
 - Yeah, but... 
 
-MONTGOMERY: 
+MONTGOMERY  
 
 (Pointing at Janet and Martin) 
 
 - So those aren't your real parents! 
 
 
-JANET: 
+JANET  
 
 - Oh, Barry... 
 
-BARRY: 
+BARRY  
 
 - Yes, they are! 
 
-ADAM: 
+ADAM  
 
 Hold me back! 
 
 (Vanessa tries to hold Adam back. He wants to sting Montgomery) 
-MONTGOMERY: 
+MONTGOMERY  
 
 You're an illegitimate bee, 
 
 aren't you, Benson? 
 
-ADAM: 
+ADAM  
 
 He's denouncing bees! 
 
-MONTGOMERY: 
+MONTGOMERY  
 
 Don't y'all date your cousins? 
 
 (Montgomery leans over on the jury stand and stares at Adam) 
-VANESSA: 
+VANESSA  
 
 - Objection! 
 
 (Vanessa raises her hand to object but Adam gets free. He flies straight at 
 Montgomery) 
 
-=ADAM: 
+=ADAM  
 
 - I'm going to pincushion this guy! 
 
-BARRY: 
+BARRY  
 
 Adam, don't! It's what he wants! 
 
 (Adam stings Montgomery in the butt and he starts thrashing around) 
 
 
-MONTGOMERY: 
+MONTGOMERY  
 Oh, I'm hit!! 
 
 
 Oh, lordy, | am hit! 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 (Banging gavel) 
 
 Order! Order! 
-MONTGOMERY: 
+MONTGOMERY  
 (Overreacting) 
 
 The venom! The venom 
@@ -4666,15 +4666,15 @@ Stinging's the only thing
 
 they know! It's their way! 
 
-BARRY: 
+BARRY  
 
 - Adam, stay with me. 
 
-ADAM: 
+ADAM  
 
 - | can't feel my legs. 
 
-MONTGOMERY: 
+MONTGOMERY  
 
 (Overreacting and throwing his body around the room) 
 What angel of mercy 
@@ -4683,14 +4683,14 @@ will come forward to suck the poison
 
 
 from my heaving buttocks? 
-JUDGE BUMLBETON: 
+JUDGE BUMLBETON  
 | will have order in this court. Order! 
 
 
 Order, please! 
 
 (Flash forward in time and we see a human news reporter) 
-NEWS REPORTER: 
+NEWS REPORTER  
 
 The case of the honeybees 
 
@@ -4703,32 +4703,32 @@ took a pointed turn against the bees
 yesterday when one of their legal 
 team stung Layton T. Montgomery. 
 (Adam is laying in a hospital bed and Barry flies in to see him) 
-BARRY: 
+BARRY  
 
 - Hey, buddy. 
 
-ADAM: 
+ADAM  
 
 - Hey. 
 
-BARRY: 
+BARRY  
 
 - Is there much pain? 
 
-ADAM: 
+ADAM  
 
 - Yeah. 
 
 
 | blew the whole case, didn't I? 
 
-BARRY: 
+BARRY  
 
 It doesn't matter. What matters is 
 
 you're alive. You could have died. 
 
-ADAM: 
+ADAM  
 
 I'd be better off dead. Look at me. 
 
@@ -4744,24 +4744,24 @@ Look, there's
 a little celery still on it. 
 
 (Flicks off the celery and sighs) 
-BARRY: 
+BARRY  
 
 What was it like to sting someone? 
-ADAM: 
+ADAM  
 
 I can't explain it. It was all... 
 
 
 All adrenaline and then... 
 and then ecstasy! 
-BARRY: 
+BARRY  
 
 .-All right. 
 
-ADAM: 
+ADAM  
 
 You think it was all a trap? 
-BARRY: 
+BARRY  
 
 Of course. I'm sorry. 
 
@@ -4770,29 +4770,29 @@ Of course. I'm sorry.
 
 What were we thinking? Look at us. We're 
 just a couple of bugs in this world. 
-ADAM: 
+ADAM  
 
 What will the humans do to us 
 
 if they win? 
 
-BARRY: 
+BARRY  
 
 | don't know. 
 
-ADAM: 
+ADAM  
 
 | hear they put the roaches in motels. 
 That doesn't sound so bad. 
 
-BARRY: 
+BARRY  
 
 Adam, they check in, 
 
 but they don't check out! 
 
 
-ADAM: 
+ADAM  
 
 Oh, my. 
 
@@ -4800,11 +4800,11 @@ Oh, my.
 
 Could you get a nurse 
 to close that window? 
-BARRY: 
+BARRY  
 
 - Why? 
 
-ADAM: 
+ADAM  
 
 
 - The smoke. 
@@ -4812,7 +4812,7 @@ ADAM:
 
 
 Bees don't smoke. 
-BARRY: 
+BARRY  
 Right. Bees don't smoke. 
 
 
@@ -4822,11 +4822,11 @@ But some bees are smoking.
 
 That's it! That's our case! 
 
-ADAM: 
+ADAM  
 
 It is? It's not over? 
 
-BARRY: 
+BARRY  
 
 Get dressed. I've gotta go somewhere. 
 
@@ -4836,26 +4836,26 @@ Get back to the court and stall.
 Stall any way you can. 
 
 (Flash forward in time and Adam is making a paper boat in the courtroom) 
-ADAM: 
+ADAM  
 
 And assuming you've done step 29 correctly, you're ready for the tub! 
 
 (We see that the jury have each made their own paper boats after being 
 taught how by Adam. They all look confused) 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 
 Mr. Flayman. 
 
-ADAM: 
+ADAM  
 
 Yes? Yes, Your Honor! 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 Where is the rest of your team? 
-ADAM: 
+ADAM  
 
 (Continues stalling) 
 
@@ -4870,7 +4870,7 @@ we don't make very good time.
 
 
 | actually heard a funny story about... 
-MONTGOMERY: 
+MONTGOMERY  
 
 Your Honor, 
 
@@ -4897,7 +4897,7 @@ who run legitimate businesses.
 
 
 of this entire case! 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 Mr. Flayman, I'm afraid I'm going 
 
 
@@ -4905,10 +4905,10 @@ to have to consider
 
 Mr. Montgomery's motion. 
 
-ADAM: 
+ADAM  
 
 But you can't! We have a terrific case. 
-MONTGOMERY: 
+MONTGOMERY  
 
 Where is your proof? 
 
@@ -4916,7 +4916,7 @@ Where is the evidence?
 
 
 Show me the smoking gun! 
-BARRY: 
+BARRY  
 
 (Barry flies in through the door) 
 Hold it, Your Honor! 
@@ -4928,14 +4928,14 @@ Here is your smoking gun.
 (Vanessa walks in holding a bee smoker. She sets it down on the Judge's 
 podium) 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 What is that? 
 
-BARRY: 
+BARRY  
 
 It's a bee smoker! 
-MONTGOMERY: 
+MONTGOMERY  
 
 (Picks up smoker) 
 
@@ -4952,7 +4952,7 @@ let alone a bee.
 and cough) 
 
 (Dozens of reporters start taking pictures of the suffering bees) 
-BARRY: 
+BARRY  
 
 Look at what has happened 
 
@@ -4977,40 +4977,40 @@ to the white man?
 
 (Barry points to the honey industry owners. One of them is an African 
 American so he awkwardly separates himself from the others) 
-LAWYER: 
+LAWYER  
 
 - What are we gonna do? 
 
 - He's playing the species card. 
 
-BARRY: 
+BARRY  
 
 Ladies and gentlemen, please, 
 
 free these bees! 
 
-ADAM AND VANESSA: 
+ADAM AND VANESSA  
 
 Free the bees! Free the bees! 
 
-BEES IN CROWD: 
+BEES IN CROWD  
 
 Free the bees! 
 
-HUMAN JURY: 
+HUMAN JURY  
 
 Free the bees! Free the bees! 
 
-JUDGE BUMBLETON: 
+JUDGE BUMBLETON  
 
 The court finds in favor of the bees! 
 
 
-BARRY: 
+BARRY  
 
 Vanessa, we won! 
 
-VANESSA: 
+VANESSA  
 
 | knew you could do it! High-five! 
 
@@ -5019,7 +5019,7 @@ VANESSA:
 
 Sorry. 
 
-BARRY: 
+BARRY  
 
 (Overjoyed) 
 
@@ -5033,7 +5033,7 @@ will finally belong to the bees.
 Now we won't have 
 
 to work so hard all the time. 
-MONTGOMERY: 
+MONTGOMERY  
 
 This is an unholy perversion 
 
@@ -5044,17 +5044,17 @@ You'll regret this.
 
 (Montgomery leaves and Barry goes outside the courtroom. Several reporters 
 start asking Barry questions) 
-REPORTER 1#: 
+REPORTER 1#  
 
 Barry, how much honey is out there? 
-BARRY: 
+BARRY  
 
 All right. One at a time. 
 
-REPORTER 2#: 
+REPORTER 2#  
 
 Barry, who are you wearing? 
-BARRY: 
+BARRY  
 
 My sweater is Ralph Lauren, 
 
@@ -5062,17 +5062,17 @@ and | have no pants.
 
 
 (Barry flies outside with the paparazzi and Adam and Vanessa stay back) 
-ADAM: 
+ADAM  
 
 (To Vanessa) 
 
 - What if Montgomery's right? 
 
-Vanessa: 
+Vanessa  
 
 - What do you mean? 
 
-ADAM: 
+ADAM  
 
 We've been living the bee way 
 
@@ -5080,13 +5080,13 @@ a long time, 27 million years.
 
 (Flash forward in time and Barry is talking to a man) 
 
-BUSINESS MAN: 
+BUSINESS MAN  
 
 Congratulations on your victory. 
 
 What will you demand as a settlement? 
 
-BARRY: 
+BARRY  
 
 First, we'll demand a complete shutdown 
 
@@ -5123,7 +5123,7 @@ of what they do in the woods.
 (We see Winnie the Pooh sharing his honey with Piglet in the cross-hairs of 
 a high-tech sniper rifle) 
 
-BARRY: 
+BARRY  
 
 (Looking through binoculars) 
 
@@ -5137,7 +5137,7 @@ Take him out.
 he was standing on, his tongue hanging out. Piglet looks at Pooh in fear 
 and the Sniper takes the honey.) 
 
-SNIPER: 
+SNIPER  
 
 He'll have nausea 
 
@@ -5145,7 +5145,7 @@ for a few hours, then he'll be fine.
 
 (Flash forward in time) 
 
-BARRY: 
+BARRY  
 
 And we will no longer tolerate 
 
@@ -5154,11 +5154,11 @@ bee-negative nicknames...
 (Mr. Sting is sitting at home until he is taken out of his house by the men 
 in suits) 
 
-STING: 
+STING  
 
 But it's just a prance-about stage name! 
 
-BARRY: 
+BARRY  
 
 ...unnecessary inclusion of honey 
 
@@ -5171,12 +5171,12 @@ tea-time snack garnishments.
 
 
 her face down on the table and take the honey) 
-OLD LADY: 
+OLD LADY  
 
 Can't breathe. 
 
 (A honey truck pulls up to Barry's hive) 
-WORKER: 
+WORKER  
 
 Bring it in, boys! 
 
@@ -5186,7 +5186,7 @@ Tap it.
 
 
 (Tons of honey is being pumped into the hive's storage) 
-BEE WORKER 1#: 
+BEE WORKER 1#  
 
 (Honey overflows from the cup) 
 
@@ -5202,7 +5202,7 @@ and there's gallons more coming!
 
 Shut down honey production! 
 
-DEAN BUZZWELL: 
+DEAN BUZZWELL  
 
 Stop making honey! 
 
@@ -5215,7 +5215,7 @@ Turn your key, sir!
 they press, shutting down the honey-making machines. This is the first time 
 this has ever happened) 
 
-BEE: 
+BEE  
 
 ... What do we do now? 
 
@@ -5229,7 +5229,7 @@ Cannonball!
 work) 
 
 (We see the Pollen Jocks flying but one of them gets a call on his antenna) 
-LOU LU DUVA: 
+LOU LU DUVA  
 
 (Through "phone") 
 
@@ -5237,7 +5237,7 @@ We're shutting honey production!
 
 
 Mission abort. 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 
 Aborting pollination and nectar detail. 
@@ -5248,17 +5248,17 @@ Returning to base.
 (We get a time lapse of Central Park slowly wilting away as the bees all 
 relax) 
 
-BARRY: 
+BARRY  
 
 Adam, you wouldn't believe 
 
 how much honey was out there. 
 
-ADAM: 
+ADAM  
 
 Oh, yeah? 
 
-BARRY: 
+BARRY  
 
 What's going on? Where is everybody? 
 
@@ -5266,7 +5266,7 @@ What's going on? Where is everybody?
 
 
 - Are they out celebrating? 
-ADAM: 
+ADAM  
 - They're home. 
 
 
@@ -5277,11 +5277,11 @@ Laying out, sleeping in.
 | heard your Uncle Carl was on his way 
 to San Antonio with a cricket. 
 
-BARRY: 
+BARRY  
 
 At least we got our honey back. 
 
-ADAM: 
+ADAM  
 
 Sometimes | think, so what if humans 
 liked our honey? Who wouldn't? 
@@ -5301,7 +5301,7 @@ And now...
 Now | can't. 
 
 (Flash forward in time and Barry is talking to Vanessa) 
-BARRY: 
+BARRY  
 
 | don't understand 
 
@@ -5315,30 +5315,30 @@ They're doing nothing. It's amazing.
 
 Honey really changes people. 
 
-VANESSA: 
+VANESSA  
 
 You don't have any idea 
 
 what's going on, do you? 
 
-BARRY: 
+BARRY  
 
 - What did you want to show me? 
 
 (Vanessa takes Barry to the rooftop where they first had coffee and points 
 to her store) 
 
-VANESSA: 
+VANESSA  
 
 - This. 
 
 (Points at her flowers. They are all grey and wilting) 
 
-BARRY: 
+BARRY  
 
 What happened here? 
 
-VANESSA: 
+VANESSA  
 
 That is not the half of it. 
 
@@ -5348,24 +5348,24 @@ store and she points to Central Park)
 (We see that Central Park is no longer green and colorful, rather it is 
 grey, brown, and dead-like. It is very depressing to look at) 
 
-BARRY: 
+BARRY  
 
 Oh, no. Oh, my. 
 
 
 They're all wilting. 
 
-VANESSA: 
+VANESSA  
 
 Doesn't look very good, does it? 
-BARRY: 
+BARRY  
 
 No. 
 
-VANESSA: 
+VANESSA  
 
 And whose fault do you think that is? 
-BARRY: 
+BARRY  
 
 You know, I'm gonna guess bees. 
 VANESSA== 
@@ -5374,7 +5374,7 @@ VANESSA==
 
 Bees? 
 
-BARRY: 
+BARRY  
 
 Specifically, me. 
 
@@ -5383,15 +5383,15 @@ Specifically, me.
 honey would affect all these things. 
 
 
-VANESSA: 
+VANESSA  
 
 It's not just flowers. 
 
 Fruits, vegetables, they all need bees. 
-BARRY: 
+BARRY  
 
 That's our whole SAT test right there. 
-VANESSA: 
+VANESSA  
 
 Take away produce, that affects 
 
@@ -5399,7 +5399,7 @@ the entire animal kingdom.
 
 
 And then, of course... 
-BARRY: 
+BARRY  
 The human species? 
 
 
@@ -5409,34 +5409,34 @@ So if there's no more pollination,
 it could all just go south here, 
 couldn't it? 
 
-VANESSA: 
+VANESSA  
 
 | know this is also partly my fault. 
-BARRY: 
+BARRY  
 
 How about a suicide pact? 
-VANESSA: 
+VANESSA  
 
 How do we do it? 
 
-BARRY: 
+BARRY  
 
 - I'll sting you, you step on me. 
-VANESSA: 
+VANESSA  
 
 - That just kills you twice. 
-BARRY: 
+BARRY  
 
 Right, right. 
 
-VANESSA: 
+VANESSA  
 
 Listen, Barry... 
 
 sorry, but | gotta get going. 
 (Vanessa leaves) 
 
-BARRY: 
+BARRY  
 
 (To himself) 
 
@@ -5450,7 +5450,7 @@ Vanessa? Why are you leaving?
 Where are you going? 
 
 (Vanessa is getting into a taxi) 
-VANESSA: 
+VANESSA  
 
 
 To the final Tournament of Roses parade 
@@ -5465,16 +5465,16 @@ It's the last chance
 
 I'll ever have to see it. 
 
-BARRY: 
+BARRY  
 
 Vanessa, | just wanna say I'm sorry. 
 | never meant it to turn out like this. 
-VANESSA: 
+VANESSA  
 
 | know. Me neither. 
 
 (The taxi starts to drive away) 
-BARRY: 
+BARRY  
 
 Tournament of Roses. 
 
@@ -5488,7 +5488,7 @@ Roses!
 Vanessa! 
 
 (Barry flies after the Taxi) 
-VANESSA: 
+VANESSA  
 
 Roses?! 
 
@@ -5496,30 +5496,30 @@ Roses?!
 Barry? 
 
 (Barry is flying outside the window of the taxi) 
-BARRY: 
+BARRY  
 
 - Roses are flowers! 
 
-VANESSA: 
+VANESSA  
 
 - Yes, they are. 
 
-BARRY: 
+BARRY  
 
 Flowers, bees, pollen! 
 
 
-VANESSA: 
+VANESSA  
 
 I know. 
 
 That's why this is the last parade. 
-BARRY: 
+BARRY  
 
 Maybe not. 
 
 Could you ask him to slow down? 
-VANESSA: 
+VANESSA  
 
 
 Could you slow down? 
@@ -5529,16 +5529,16 @@ Could you slow down?
 Barry! 
 
 (Barry flies back to the window) 
-BARRY: 
+BARRY  
 
 OK, | made a huge mistake. 
 
 This is a total disaster, all my fault. 
-VANESSA: 
+VANESSA  
 
 Yes, it kind of is. 
 
-BARRY: 
+BARRY  
 
 I've ruined the planet. 
 
@@ -5549,10 +5549,10 @@ with the flower shop.
 
 I've made it worse. 
 
-VANESSA: 
+VANESSA  
 
 Actually, it's completely closed down. 
-BARRY: 
+BARRY  
 
 | thought maybe you were remodeling. 
 
@@ -5560,12 +5560,12 @@ BARRY:
 But | have another idea, and it's 
 
 greater than my previous ideas combined. 
-VANESSA: 
+VANESSA  
 
 | don't want to hear it! 
 
 
-BARRY: 
+BARRY  
 All right, they have the roses, 
 the roses have the pollen. 
 
@@ -5579,18 +5579,18 @@ back here with what we've got.
 
 
 - Bees. 
-VANESSA: 
+VANESSA  
 - Park. 
-BARRY: 
+BARRY  
 
 - Pollen! 
-VANESSA: 
+VANESSA  
 - Flowers. 
-BARRY: 
+BARRY  
 
 
 - Re-pollination! 
-VANESSA: 
+VANESSA  
 - Across the nation! 
 
 
@@ -5603,14 +5603,14 @@ but flowers, floats and cotton candy.
 
 
 Security will be tight. 
-BARRY: 
+BARRY  
 | have an idea. 
 
 
 (Flash forward in time. Vanessa is about to board a plane which has all the 
 Roses on board. 
 
-VANESSA: 
+VANESSA  
 
 Vanessa Bloome, FTD. 
 
@@ -5619,7 +5619,7 @@ Vanessa Bloome, FTD.
 
 Official floral business. It's real. 
 
-SECURITY GUARD: 
+SECURITY GUARD  
 
 Sorry, ma'am. Nice brooch. 
 
@@ -5629,44 +5629,44 @@ Thank you. It was a gift.
 
 (Barry is revealed to be hiding inside the brooch) 
 (Flash back in time and Barry and Vanessa are discussing their plan) 
-BARRY: 
+BARRY  
 
 Once inside, 
 
 we just pick the right float. 
 
-VANESSA: 
+VANESSA  
 
 How about The Princess and the Pea? 
 
 
 | could be the princess, 
 and you could be the pea! 
-BARRY: 
+BARRY  
 
 Yes, | got it. 
 
 
 - Where should | sit? 
-GUARD: 
+GUARD  
 
 - What are you? 
-BARRY: 
+BARRY  
 
 - | believe I'm the pea. 
-GUARD: 
+GUARD  
 
 
 - The pea? 
-VANESSA: 
+VANESSA  
 
 
 It goes under the mattresses. 
-GUARD: 
+GUARD  
 
 - Not in this fairy tale, sweetheart. 
 - I'm getting the marshal. 
-VANESSA: 
+VANESSA  
 
 You do that! 
 
@@ -5676,7 +5676,7 @@ This whole parade is a fiasco!
 Let's see what this baby'll do. 
 
 (Vanessa drives the float through traffic) 
-GUARD: 
+GUARD  
 
 Hey, what are you doing?! 
 
@@ -5695,38 +5695,38 @@ Once at the airport,
 there's no stopping us. 
 
 (Flash forward in time and Barry and Vanessa are about to get on a plane) 
-SECURITY GUARD: 
+SECURITY GUARD  
 
 Stop! Security. 
 
 
 - You and your insect pack your float? 
-VANESSA: 
+VANESSA  
 
 - Yes. 
 
-SECURITY GUARD: 
+SECURITY GUARD  
 
 Has it been 
 
 in your possession the entire time? 
-VANESSA: 
+VANESSA  
 
 - Yes. 
 
 
-SECURITY GUARD: 
+SECURITY GUARD  
 
 Would you remove your shoes? 
 (To Barry) 
 
 - Remove your stinger. 
 
-BARRY: 
+BARRY  
 
 - It's part of me. 
 
-SECURITY GUARD: 
+SECURITY GUARD  
 
 | know. Just having some fun. 
 
@@ -5735,7 +5735,7 @@ Enjoy your flight.
 
 (Barry plotting with Vanessa) 
 
-BARRY: 
+BARRY  
 
 Then if we're lucky, we'll have 
 
@@ -5744,15 +5744,15 @@ just enough pollen to do the job.
 (Flash forward in time and Barry and Vanessa are flying on the plane) 
 Can you believe how lucky we are? We 
 have just enough pollen to do the job! 
-VANESSA: 
+VANESSA  
 
 | think this is gonna work. 
 
-BARRY: 
+BARRY  
 
 It's got to work. 
 
-CAPTAIN SCOTT: 
+CAPTAIN SCOTT  
 
 (On intercom) 
 
@@ -5769,12 +5769,12 @@ It looks like we'll experience
 
 a couple hours delay. 
 
-VANESSA: 
+VANESSA  
 
 Barry, these are cut flowers 
 
 with no water. They'll never make it. 
-BARRY: 
+BARRY  
 
 
 | gotta get up there 
@@ -5786,7 +5786,7 @@ VANESSA==
 Be careful. 
 
 (Barry flies right outside the cockpit door) 
-BARRY: 
+BARRY  
 
 Can | get help 
 
@@ -5798,33 +5798,33 @@ inflatable nose and ear hair trimmer.
 (The flight attendant opens the door and walks out and Barry flies into the 
 cockpit unseen) 
 
-BARRY: 
+BARRY  
 
 Captain, I'm in a real situation. 
 
-CAPTAIN SCOTT: 
+CAPTAIN SCOTT  
 
 - What'd you say, Hal? 
 
-CO-PILOT HAL: 
+CO-PILOT HAL  
 
 
 - Nothing. 
 
 (Scott notices Barry and freaks out) 
 
-CAPTAIN SCOTT: 
+CAPTAIN SCOTT  
 
 Bee! 
 
-BARRY: 
+BARRY  
 
 No,no,no, Don't freak out! My entire species... 
 
 (Captain Scott gets out of his seat and tries to suck Barry into a handheld 
 vacuum) 
 
-HAL: 
+HAL  
 
 (To Scott) 
 
@@ -5833,22 +5833,22 @@ What are you doing?
 (Barry lands on Hals hair but Scott sees him. He tries to suck up Barry but 
 instead he sucks up Hals toupee) 
 
-CAPTAIN SCOTT: 
+CAPTAIN SCOTT  
 
 Uh-oh. 
 
-BARRY: 
+BARRY  
 
 - Wait a minute! I'm an attorney! 
 
 
-HAL: 
+HAL  
 
 (Hal doesn't know Barry is on his head) 
 
 - Who's an attorney? 
 
-CAPTAIN SCOTT: 
+CAPTAIN SCOTT  
 
 Don't move. 
 
@@ -5857,13 +5857,13 @@ is knocked out and he falls on the life raft button which launches an
 infalatable boat into Scott, who gets knocked out and falls to the floor. 
 They are both uncounscious. ) 
 
-BARRY: 
+BARRY  
 
 (To himself) 
 
 Oh, Barry. 
 
-BARRY: 
+BARRY  
 
 (On intercom, with a Southern accent) 
 
@@ -5883,11 +5883,11 @@ please report to the cockpit?
 ...And please hurry! 
 
 (Vanessa opens the door and sees the life raft and the uncounscious pilots) 
-VANESSA: 
+VANESSA  
 
 What happened here? 
 
-BARRY: 
+BARRY  
 
 
 | tried to talk to them, but 
@@ -5897,10 +5897,10 @@ a toupee, a life raft exploded.
 
 Now one's bald, one's in a boat, 
 and they're both unconscious! 
-VANESSA: 
+VANESSA  
 
 ..Is that another bee joke? 
-BARRY: 
+BARRY  
 
 
 - No! 
@@ -5908,48 +5908,48 @@ BARRY:
 
 No one's flying the plane! 
 
-BUD DITCHWATER: 
+BUD DITCHWATER  
 
 (Through radio on plane) 
 
 This is JFK control tower, Flight 356. 
 What's your status? 
 
-VANESSA: 
+VANESSA  
 
 This is Vanessa Bloome. 
 
 I'm a florist from New York. 
-BUD: 
+BUD  
 
 Where's the pilot? 
 
-VANESSA: 
+VANESSA  
 
 He's unconscious, 
 
 and so is the copilot. 
 
-BUD: 
+BUD  
 
 Not good. Does anyone onboard 
 have flight experience? 
 
-BARRY: 
+BARRY  
 
 As a matter of fact, there is. 
-BUD: 
+BUD  
 
 - Who's that? 
 
-BARRY: 
+BARRY  
 
 - Barry Benson. 
 
-BUD: 
+BUD  
 
 From the honey trial?! Oh, great. 
-BARRY: 
+BARRY  
 
 Vanessa, this is nothing more 
 than a big metal bee. 
@@ -5958,26 +5958,26 @@ than a big metal bee.
 It's got giant wings, huge engines. 
 
 
-VANESSA: 
+VANESSA  
 | can't fly a plane. 
 
 
-BARRY: 
+BARRY  
 
 - Why not? Isn't John Travolta a pilot? 
 
-VANESSA: 
+VANESSA  
 
 - Yes. 
 
-BARRY: 
+BARRY  
 
 How hard could it be? 
 
 (Vanessa sits down and flies for a little bit but we see lightning clouds 
 outside the window) 
 
-VANESSA: 
+VANESSA  
 
 Wait, Barry! 
 
@@ -5986,7 +5986,7 @@ We're headed into some lightning.
 (An ominous lightning storm looms in front of the plane) 
 (We are now watching the Bee News) 
 
-BOB BUMBLE: 
+BOB BUMBLE  
 
 This is Bob Bumble. We have some 
 
@@ -6000,11 +6000,11 @@ is developing.
 Barry Benson, 
 
 fresh from his legal victory... 
-ADAM: 
+ADAM  
 
 That's Barry! 
 
-BOB BUMBLE: 
+BOB BUMBLE  
 
 ...1S attempting to land a plane, 
 loaded with people, flowers 
@@ -6012,13 +6012,13 @@ loaded with people, flowers
 
 and an incapacitated flight crew. 
 
-JANET, MARTIN, UNCLE CAR AND ADAM: 
+JANET, MARTIN, UNCLE CAR AND ADAM  
 Flowers?! 
 
 (The scene switches to the human news) 
 
 
-REPORTER: 
+REPORTER  
 
 (Talking with Bob Bumble) 
 
@@ -6028,13 +6028,13 @@ and two individuals at the controls
 
 
 with absolutely no flight experience. 
-BOB BUMBLE: 
+BOB BUMBLE  
 
 Just a minute. 
 
 There's a bee on that plane. 
 
-BUD: 
+BUD  
 
 I'm quite familiar with Mr. Benson 
 
@@ -6043,10 +6043,10 @@ and his no-account compadres.
 
 
 They've done enough damage. 
-REPORTER: 
+REPORTER  
 
 But isn't he your only hope? 
-BUD: 
+BUD  
 
 Technically, a bee 
 
@@ -6055,7 +6055,7 @@ shouldn't be able to fly at all.
 
 Their wings are too small... 
 
-BARRY: 
+BARRY  
 
 (Through radio) 
 
@@ -6064,24 +6064,24 @@ Haven't we heard this a million times?
 
 "The surface area of the wings 
 and body mass make no sense."... 
-BOB BUMBLE: 
+BOB BUMBLE  
 
 - Get this on the air! 
 
-BEE: 
+BEE  
 
 - Got it. 
 
 
-BEE NEWS CREW: 
+BEE NEWS CREW  
 
 - Stand by. 
 
-BEE NEWS CREW: 
+BEE NEWS CREW  
 
 - We're going live! 
 
-BARRY: 
+BARRY  
 
 (Through radio on TV) 
 
@@ -6116,25 +6116,25 @@ We get behind a fellow.
 
 - Black and yellow! 
 
-BEES: 
+BEES  
 
 - Hello! 
 
 (The scene switches and Barry is teaching Vanessa how to fly) 
-BARRY: 
+BARRY  
 
 
 Left, right, down, hover. 
 
-VANESSA: 
+VANESSA  
 
 - Hover? 
 
-BARRY: 
+BARRY  
 
 - Forget hover. 
 
-VANESSA: 
+VANESSA  
 
 This isn't so hard. 
 
@@ -6145,27 +6145,27 @@ Beep-beep! Beep-beep!
 (A Lightning bolt hits the plane and autopilot turns off) 
 Barry, what happened?! 
 
-BARRY: 
+BARRY  
 
 Wait, | think we were 
 
 on autopilot the whole time. 
 
-VANESSA: 
+VANESSA  
 
 - That may have been helping me. 
 
-BARRY: 
+BARRY  
 
 - And now we're not! 
 
-VANESSA: 
+VANESSA  
 
 So it turns out | cannot fly a plane. 
 
 (The plane plummets but we see Lou Lu Duva and the Pollen Jocks, along with 
 multiple other bees flying towards the plane) 
-Lou Lu DUva: 
+Lou Lu DUva  
 
 All of you, let's get 
 
@@ -6176,7 +6176,7 @@ Move out!
 
 (The scene switches back to Vanessa and Barry in the plane) 
 
-BARRY: 
+BARRY  
 
 Our only chance is if | do what I'd do, 
 
@@ -6186,93 +6186,93 @@ you copy me with the wings of the plane!
 face) 
 
 
-VANESSA: 
+VANESSA  
 
 Don't have to yell. 
 
-BARRY: 
+BARRY  
 
 I'm not yelling! 
 
 We're in a lot of trouble. 
-VANESSA: 
+VANESSA  
 
 It's very hard to concentrate 
 with that panicky tone in your voice! 
-BARRY: 
+BARRY  
 
 It's not a tone. I'm panicking! 
-VANESSA: 
+VANESSA  
 
 | can't do this! 
 
 (Barry slaps Vanessa) 
-BARRY: 
+BARRY  
 
 Vanessa, pull yourself together. 
 You have to snap out of it! 
-VANESSA: 
+VANESSA  
 
 (Slaps Barry) 
 
 You snap out of it. 
 
-BARRY: 
+BARRY  
 
 (Slaps Vanessa) 
 
 
 You snap out of it. 
 
-VANESSA: 
+VANESSA  
 
 - You snap out of it! 
 
-BARRY: 
+BARRY  
 
 - You snap out of it! 
 
 (We see that all the Pollen Jocks are flying under the plane) 
-VANESSA: 
+VANESSA  
 
 - You snap out of it! 
 
-BARRY: 
+BARRY  
 
 - You snap out of it! 
 
 
-VANESSA: 
+VANESSA  
 
 - You snap out of it! 
 
-BARRY: 
+BARRY  
 
 - You snap out of it! 
-VANESSA: 
+VANESSA  
 
 - Hold it! 
 
-BARRY: 
+BARRY  
 
 - Why? Come on, it's my turn. 
-VANESSA: 
+VANESSA  
 
 How is the plane flying? 
 
 (The plane is now safely flying) 
 
 
-VANESSA: 
+VANESSA  
 
 | don't know. 
 
 (Barry's antennae rings like a phone. Barry picks up) 
-BARRY: 
+BARRY  
 
 Hello? 
 
-LOU LU DUVA: 
+LOU LU DUVA  
 
 (Through "phone") 
 
@@ -6281,59 +6281,59 @@ Benson, got any flowers
 for a happy occasion in there? 
 
 (All of the Pollen Jocks are carrying the plane) 
-BARRY: 
+BARRY  
 
 The Pollen Jocks! 
 
 
 They do get behind a fellow. 
-LOU LU DUVA: 
+LOU LU DUVA  
 
 - Black and yellow. 
 
-POLLEN JOCKS: 
+POLLEN JOCKS  
 
 - Hello. 
 
-LOU LU DUVA: 
+LOU LU DUVA  
 
 All right, let's drop this tin can 
 
 
 on the blacktop. 
 
-BARRY: 
+BARRY  
 
 Where? | can't see anything. Can you? 
-VANESSA: 
+VANESSA  
 
 No, nothing. It's all cloudy. 
 
 
 Come on. You got to think bee, Barry. 
-BARRY: 
+BARRY  
 
 - Thinking bee. 
 
 - Thinking bee. 
 
 (On the runway there are millions of bees laying on their backs) 
-BEES: 
+BEES  
 
 Thinking bee! 
 
 Thinking bee! Thinking bee! 
 
-BARRY: 
+BARRY  
 
 Wait a minute. 
 
 | think I'm feeling something. 
-VANESSA: 
+VANESSA  
 
 - What? 
 
-BARRY: 
+BARRY  
 
 - | don't know. It's strong, pulling me. 
 
@@ -6343,15 +6343,15 @@ Like a 27-million-year-old instinct.
 
 Bring the nose down. 
 
-BEES: 
+BEES  
 
 Thinking bee! 
 
 Thinking bee! Thinking bee! 
-CONTROL TOWER OPERATOR: 
+CONTROL TOWER OPERATOR  
 
 - What in the world is on the tarmac? 
-BUD: 
+BUD  
 
 - Get some lights on that! 
 
@@ -6359,27 +6359,27 @@ BUD:
 (It is revealed that all the bees are organized into a giant pulsating 
 flower formation) 
 
-BEES: 
+BEES  
 
 Thinking bee! 
 
 Thinking bee! Thinking bee! 
-BARRY: 
+BARRY  
 
 - Vanessa, aim for the flower. 
-VANESSA: 
+VANESSA  
 
 - OK. 
 
-BARRY: 
+BARRY  
 
 Out the engines. We're going in 
 on bee power. Ready, boys? 
-LOU LU DUVA: 
+LOU LU DUVA  
 
 Affirmative! 
 
-BARRY: 
+BARRY  
 
 Good. Good. Easy, now. That's it. 
 
@@ -6393,23 +6393,23 @@ Spin it around!
 (The plane's nose is pointed at a flower painted on a nearby plane) 
 - Not that flower! The other one! 
 
-VANESSA: 
+VANESSA  
 
 - Which one? 
 
-BARRY: 
+BARRY  
 
 - That flower. 
 
 (The plane is now pointed at a fat guy in a flowered shirt. He freaks out 
 and tries to take a picture of the plane) 
 
-VANESSA: 
+VANESSA  
 
 - I'm aiming at the flower! 
 
 
-BARRY: 
+BARRY  
 
 
 That's a fat guy in a flowered shirt. 
@@ -6425,20 +6425,20 @@ Pull forward. Nose down. Tail up.
 
 Rotate around it. 
 
-VANESSA: 
+VANESSA  
 
 - This is insane, Barry! 
 
-BARRY: 
+BARRY  
 
 - This's the only way | know how to fly. 
-BUD: 
+BUD  
 
 Am | koo-koo-kachoo, or is this plane 
 flying in an insect-like pattern? 
 
 (The plane is unrealistically hovering and spinning over the bee-flower) 
-BARRY: 
+BARRY  
 
 Get your nose in there. Don't be afraid. 
 Smell it. Full reverse! 
@@ -6452,40 +6452,40 @@ Now drop it in! Drop it in, woman!
 Come on, already. 
 
 (The bees scatter and the plane safely lands) 
-VANESSA: 
+VANESSA  
 
 Barry, we did it! 
 
 You taught me how to fly! 
 
 
-BARRY: 
+BARRY  
 
 - Yes! 
 
 (Vanessa is about to high-five Barry) 
 No high-five! 
 
-VANESSA: 
+VANESSA  
 
 - Right. 
 
-ADAM: 
+ADAM  
 
 Barry, it worked! 
 
 Did you see the giant flower? 
-BARRY: 
+BARRY  
 
 What giant flower? Where? Of course 
 | saw the flower! That was genius! 
 
 
-ADAM: 
+ADAM  
 
 - Thank you. 
 
-BARRY: 
+BARRY  
 
 - But we're not done yet. 
 
@@ -6514,23 +6514,23 @@ this is our moment! What do you say?
 
 Are we going to be bees, or just 
 Museum of Natural History keychains? 
-BEES: 
+BEES  
 
 We're bees! 
 
-BEE WHO LIKES KEYCHAINS: 
+BEE WHO LIKES KEYCHAINS  
 Keychain! 
 
-BARRY: 
+BARRY  
 
 Then follow me! Except Keychain. 
-POLLEN JOCK #1: 
+POLLEN JOCK #1  
 
 Hold on, Barry. Here. 
 
 
 You've earned this. 
-BARRY: 
+BARRY  
 Yeah! 
 
 
@@ -6541,7 +6541,7 @@ fit. All | gotta do are the sleeves.
 (The Pollen Jocks throw Barry a nectar-collecting gun. Barry catches it) 
 Oh, yeah. 
 
-JANET: 
+JANET  
 
 That's our Barry. 
 
@@ -6554,11 +6554,11 @@ That's our Barry.
 (Barry pollinates the flowers in Vanessa's shop and then heads to Central 
 Park) 
 
-BOY IN PARK: 
+BOY IN PARK  
 
 Mom! The bees are back! 
 
-ADAM: 
+ADAM  
 
 (Putting on his Krelman hat) 
 
@@ -6575,7 +6575,7 @@ working late tonight!
 (The bee honey factories are back up and running) 
 (Meanwhile at Vanessa's shop) 
 
-VANESSA: 
+VANESSA  
 
 (To customer) 
 
@@ -6591,7 +6591,7 @@ It is bee-approved. Don't forget these.
 (There is a room in the shop where Barry does legal work for other animals. 
 He is currently talking with a Cow) 
 
-COW: 
+COW  
 
 Milk, cream, cheese, it's all me. 
 
@@ -6601,88 +6601,88 @@ And | don't see a nickel!
 Sometimes | just feel 
 
 like a piece of meat! 
-BARRY: 
+BARRY  
 
 | had no idea. 
-VANESSA: 
+VANESSA  
 
 Barry, I'm sorry. 
 
 Have you got a moment? 
-BARRY: 
+BARRY  
 
 Would you excuse me? 
 My mosquito associate will help you. 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Sorry I'm late. 
 
-COW: 
+COW  
 
 He's a lawyer too? 
 
 
-MOOSEBLOOD: 
+MOOSEBLOOD  
 
 Ma'am, | was already a blood-sucking parasite. 
 All | needed was a briefcase. 
 
-VANESSA: 
+VANESSA  
 
 Have a great afternoon! 
 
 
 Barry, | just got this huge tulip order, 
 and | can't get them anywhere. 
-BARRY: 
+BARRY  
 
 No problem, Vannie. 
 
 Just leave it to me. 
 
-VANESSA: 
+VANESSA  
 
 You're a lifesaver, Barry. 
 
 Can | help who's next? 
 
-BARRY: 
+BARRY  
 
 All right, scramble, jocks! 
 
 It's time to fly. 
 
-VANESSA: 
+VANESSA  
 
 Thank you, Barry! 
 
 (Ken walks by on the sidewalk and sees the "bee-approved honey" in 
 Vanessa's shop) 
 
-KEN: 
+KEN  
 
 That bee is living my life!! 
-ANDY: 
+ANDY  
 
 Let it go, Kenny. 
 
-KEN: 
+KEN  
 
 - When will this nightmare end?! 
-ANDY: 
+ANDY  
 
 - Let it all go. 
 
-BARRY: 
+BARRY  
 
 - Beautiful day to fly. 
 
-POLLEN JOCK: 
+POLLEN JOCK  
 
 
 - Sure is. 
 
-BARRY: 
+BARRY  
 
 Between you and me, 
 
@@ -6690,7 +6690,7 @@ Between you and me,
 
 (Barry recreates the scene near the beginning of the movie where he flies 
 through the box kite. The movie fades to black and the credits being) 
-[--after credits; No scene can be seen but the characters can be heard 
+[--after credits  No scene can be seen but the characters can be heard 
 talking over the credits--] 
 
 You have got 
@@ -6702,7 +6702,7 @@ to start thinking bee, my friend!
 
 - Me? 
 
-BARRY: 
+BARRY  
 
 (Talking over singer) 
 
@@ -6714,18 +6714,18 @@ I'm sorry. I'm sorry, everyone.
 
 Can we stop here? 
 
-SINGER: 
+SINGER  
 
-Oh, BarryBARRY: 
+Oh, BarryBARRY  
 
 I'm not making a major life decision 
 during a production number! 
-SINGER: 
+SINGER  
 
 All right. Take ten, everybody. 
 Wrap it up, guys. 
 
-BARRY: 
+BARRY  
 
 | had virtually no rehearsal for that. 
 
