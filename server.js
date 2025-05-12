@@ -1,41 +1,62 @@
 const express = require("express");
 const http = require("http");
 const { Server } = require("socket.io");
+const cors = require("cors");
 
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
-  cors: { origin: "*" }
+  cors: {
+    origin: "*", // Allow any frontend origin
+    methods: ["GET", "POST"]
+  }
+});
+
+app.use(cors());
+
+// Health check route for UptimeRobot
+app.get("/health", (req, res) => {
+  res.send("OK");
+});
+
+// Optional root route
+app.get("/", (req, res) => {
+  res.send("Voice Chat Server is running.");
 });
 
 let users = {};
 
 io.on("connection", (socket) => {
+  console.log(`New connection: ${socket.id}`);
+
   socket.on("join", (username) => {
     users[socket.id] = username;
-    io.emit("users", Object.values(users));
-
     socket.broadcast.emit("new-user", socket.id);
+    io.emit("users", Object.values(users));
+    console.log(`${username} joined`);
+  });
 
-    socket.on("offer", ({ to, offer }) => {
-      io.to(to).emit("offer", { from: socket.id, offer });
-    });
+  socket.on("offer", ({ to, offer }) => {
+    io.to(to).emit("offer", { from: socket.id, offer });
+  });
 
-    socket.on("answer", ({ to, answer }) => {
-      io.to(to).emit("answer", { from: socket.id, answer });
-    });
+  socket.on("answer", ({ to, answer }) => {
+    io.to(to).emit("answer", { from: socket.id, answer });
+  });
 
-    socket.on("ice-candidate", ({ to, candidate }) => {
-      io.to(to).emit("ice-candidate", { from: socket.id, candidate });
-    });
+  socket.on("ice-candidate", ({ to, candidate }) => {
+    io.to(to).emit("ice-candidate", { from: socket.id, candidate });
+  });
 
-    socket.on("disconnect", () => {
-      delete users[socket.id];
-      io.emit("users", Object.values(users));
-      socket.broadcast.emit("user-left", socket.id);
-    });
+  socket.on("disconnect", () => {
+    console.log(`Disconnected: ${socket.id}`);
+    delete users[socket.id];
+    io.emit("user-left", socket.id);
+    io.emit("users", Object.values(users));
   });
 });
 
 const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => console.log("Server running on port " + PORT));
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
