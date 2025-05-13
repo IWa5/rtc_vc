@@ -21,17 +21,7 @@ app.get("/health", (req, res) => {
 
 // Dice root route
 app.get("/", (req, res) => {
-  res.send("You rolled a 2 (Servers active)");
-});
-
-// Dice root route
-app.get("/", (req, res) => {
-  res.send("You rolled a 1 (Servers active)");
-});
-
-// Dice root route
-app.get("/", (req, res) => {
-  res.send("You rolled a 4 (Servers active)");
+  res.send("Uptimerobot is so annoying at times. Its very stupid. (Servers active)");
 });
 
 let users = {};
