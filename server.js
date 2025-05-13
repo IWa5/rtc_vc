@@ -16,12 +16,22 @@ app.use(cors());
 
 // Health check route for UptimeRobot
 app.get("/health", (req, res) => {
-  res.send("I tried to make it the whole bee movie script.. but it didn't let me. The servers up though.");
+  res.send("You rolled a 3 (Servers active)");
 });
 
-// Optional root route
+// Dice root route
 app.get("/", (req, res) => {
-  res.send("Voice Chat Server is running.");
+  res.send("You rolled a 2 (Servers active)");
+});
+
+// Dice root route
+app.get("/", (req, res) => {
+  res.send("You rolled a 1 (Servers active)");
+});
+
+// Dice root route
+app.get("/", (req, res) => {
+  res.send("You rolled a 4 (Servers active)");
 });
 
 let users = {};
